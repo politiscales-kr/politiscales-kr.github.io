@@ -1,6 +1,6 @@
-# PolitiScales Questions
+# PolitiScales 질문들
 
-### Constructivism/Essentialism
+### 구성주의/본질주의
 
 The **Constructivists** consider that people build themselves from their environment (notably social) and that the characteristics that make them who they are, are acquired.
 
@@ -21,7 +21,7 @@ On the contrary, the **Essentialists** consider that an individual is by nature 
 13. Biologically, human beings are designed for heterosexuality.
 14. Selfishness is the overriding drive in the human species, no matter the context.
 
-### Internationalism/Nationalism
+### 국제주의/민족주의
 
 **Internationalism** is a set of different ides which have for common point to stop making a hierarchy between countries and their inhabitants and to promote as much as possible their cooperation. Pushed to its maximum the final objective is the abolitions of borders.
 
@@ -42,7 +42,7 @@ On the other hand, **Nationalism** is a set of heterogeneous ideas which, when a
 27. It is necessary to teach history in order to create a sense of belonging to the nation.
 28. Research produced by my country should not be available to other countries.
 
-### Communism/Capitalism
+### 사회주의/자본주의
 
 **Communism** is a vast political doctrine. In this test a majority for communism simply signifies that you are for a public property of the means of production.
 
@@ -63,7 +63,7 @@ On the other hand, **Nationalism** is a set of heterogeneous ideas which, when a
 41. It is acceptable that some industry sectors are private.
 42. Banks should remain private.
 
-### Regulation/Laissez-faire
+### 규제주의/불간섭주의
 
 This axis represents the attitude that a government needs to have concerning the market economy in which an important part of the means of production are private. Liberals and Keynesians are opposed to the method that needs to be adopted without putting into question capitalism. If you are more capitalist, this axis represents your goal in terms of economy. If you are more communist, this axis represents the least bad that you can expect of the current system.
 
@@ -86,7 +86,7 @@ On the contrary, the **Laissez-faire** is the ideas in which the economical acti
 55. Social assistance deters people from working.
 56. State-run companies should be managed like private ones and follow the logic of the market (competition, profitability...).
 
-### Progressivism/Conservatism
+### 진보주의/보수주의
 
 The **Progressives** try to build social progress, make a better society without caring about traditions. They often consider the present as better than the past and that it is necessary to keep on this path.
 
@@ -107,7 +107,7 @@ On the contrary the **Conservatives** want to keep the status quo and even to re
 69. The main goal of a couple is to make at least one child.
 70. Abstinence should be preferred to contraception, to preserve the true nature of the sexual act.
 
-### Ecology/Production
+### 생태주의/산업주의
 
 **Ecology** in politics privileges the protection of the environment by limiting as much as possible the impact of human activities on the biodiversity even if it implies to limit the these human activities by modifying more or less radically our current way of life.
 
@@ -128,7 +128,7 @@ On the contrary the **Conservatives** want to keep the status quo and even to re
 83. Exploitation of fossil fuels is necessary.
 84. Maintaining strong economic growth should be an objective for the government.
 
-### Rehabilitative Justice/Punitive Justice
+### 교정주의/엄벌주의
 
 The ones in favor of the **Rehabilitative Justice** consider that the role of justice is to put the condemned on the “right path” again by making them understand why they should not do what they did and why they were condemned and by accompanying them all along the process.
 
@@ -148,7 +148,7 @@ Conversely the ones in favor of the **Punitive Justice** consider that the role 
 96. Heavy penalties are efficient because they are dissuasive.
 97. It is better to arrest someone potentially dangerous preemptively rather than taking the risk of having them committing a crime.
 
-### Revolution/Reform
+### 급진주의/개혁주의
 
 **Revolutionaries** have a tendency to privilege direct action, often in the margin of legality, to reach their goal: replace the current political organization for totally different one.
 
@@ -169,7 +169,7 @@ Conversely the ones in favor of the **Punitive Justice** consider that the role 
 110.    We need to make compromises with the opposition to apply our ideas.
 111.    Changes in an individual's way of life can induce changes in society.
 
-### Bonus Badges
+### 추가 휘장들
 
 -   **Missionary**: My religion must be spread as widely as possible.
 -   **Conspiratorial**: It is a small group that consciously and secretly controls the world.
