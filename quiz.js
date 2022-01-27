@@ -94,7 +94,7 @@ var questions = [
     ]
   },
   {
-    question: "Sexual orientation is a social construct",
+    question: "Sexual orientation is a social construct.",
     answer: 0,
     valuesYes: [
       {
@@ -855,7 +855,7 @@ var questions = [
   },
   {
     question:
-      "Nowadays employees are free to choose when signing a contract with their future employer",
+      "Nowadays employees are free to choose when signing a contract with their future employer.",
     answer: 0,
     valuesYes: [
       {
