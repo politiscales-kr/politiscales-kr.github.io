@@ -1963,7 +1963,7 @@ function init_question() {
   document.getElementById("question-text").innerHTML = questions[qn].question;
   document.getElementById(
     "question-number"
-  ).innerHTML = "%sum%개 중 %num% 번째 질문"
+  ).innerHTML = "%sum%개 중 %num%번째 질문"
     .replace("%num%", qn + 1)
     .replace("%sum%", questions.length);
   if (qn == 0) {

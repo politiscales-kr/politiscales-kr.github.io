@@ -78,7 +78,7 @@ var questions = [
     ]
   },
   {
-    question: "그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건이나 행동 양식 등, 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>",
+    question: "그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건과 같이 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -111,7 +111,7 @@ var questions = [
   },
   {
     question:
-      "인종간의 사회적 차이는 생물학으로 설명될 수 없습니다. <i>(인종간의 서로 다른 문화와 평균적 생활 수준의 차이는 타고 나는 것이 아닌 성장 환경 등의 차이입니다.)</i>",
+      "인종간의 사회적 차이는 생물학으로 설명될 수 없습니다. <i>(인종간의 서로 다른 문화와 같은 차이점들은 타고 나는 것이 아닌 성장 환경 등의 차이입니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -128,7 +128,7 @@ var questions = [
   },
   {
     question:
-      "남성과 여성의 전통적인 사회적 역할은 부분적으로 생물학적 차이에 의해 설명될 수 있습니다.",
+      "남성과 여성의 서로 다른 사회적 역할은 부분적으로 생물학적 차이에 의해 설명될 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -149,7 +149,7 @@ var questions = [
   },
   {
     question:
-      "호르몬의 차이는 여성과 남성 개인들의 차이 일부를 설명할 수 있습니다.",
+      "호르몬의 차이는 여성과 남성사이의 차이 일부를 설명할 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -207,7 +207,7 @@ var questions = [
   },
   {
     question:
-      "국가 또는 문화권의 구성원은 어떤 국가 또는 문화권만의 절대적인 특징을 가지고 있습니다.",
+      "몇 가지의 절대적인 특징을 이용해, 특정 국가 또는 문화권에 속한 사람들을 구분해 낼 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -257,7 +257,7 @@ var questions = [
   },
   // Internationalism/Nationalism
   {
-    question: "Borders should eventually be abolished.",
+    question: "국경은 결국 사라져야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -274,7 +274,7 @@ var questions = [
   },
   {
     question:
-      "People need to stand up for their ideals, even if it leads them to betray their country.",
+      "국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다. <i>(국민은 국가를 등지게 될지라도, 자신의 이상을 위해 일어날 수 있어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -291,7 +291,7 @@ var questions = [
   },
   {
     question:
-      "My country must pay for the damages caused by the crimes it committed in other countries.",
+      "우리 나라는 우리 국민이 다른 나라에서 저지른 범죄에 대해서도 배상해야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -308,7 +308,7 @@ var questions = [
   },
   {
     question:
-      "If two countries have similar economies, social systems and environmental norms, then the free market between them has no negative impact.",
+      "어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 국가 사이의 자유 시장은 부정적 영향을 주고 받지 않을 것 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -325,7 +325,7 @@ var questions = [
   },
   {
     question:
-      "National Chauvinism during sports competitions is not acceptable.",
+      "스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -342,7 +342,7 @@ var questions = [
   },
   {
     question:
-      "I am equally concerned about the inhabitants of my country and those of other the countries.",
+      "'전 제 나라의 주민들과 똑같이 다른 나라의 주민들에 대해서도 걱정하고 있습니다.'",
     answer: 0,
     valuesYes: [
       {
@@ -359,7 +359,7 @@ var questions = [
   },
   {
     question:
-      "Foreigners living in my country should be allowed to act politically, equally to those who have the nationality.",
+      "우리나라에 사는 외국인들은, 우리나라의 국민들과 동등하게 정치적으로 행동할 수 있어야 합니다. <i>(외국인들도 내국인과 같이 시위, 노조, 단체 등을 자유롭게 결성할 수 있어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -375,56 +375,7 @@ var questions = [
     ]
   },
   {
-    question: "Citizens should take priority over foreigners.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "b1",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "b0",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "The values of my country are superior to those of other countries.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "b1",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "b0",
-        value: 3
-      }
-    ]
-  },
-  {
-    question: "Multiculturalism is a threat to our society.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "b1",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "b0",
-        value: 3
-      }
-    ]
-  },
-  {
-    question: "A good citizen is a patriot.",
+    question: "시민이 외국인보다 우선이어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -441,7 +392,39 @@ var questions = [
   },
   {
     question:
-      "It is legitimate for a country to intervene militarily to defend its economic interests.",
+      "우리 나라의 가치는 다른 나라의 가치보다 우월합니다.",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "b1",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "b0",
+        value: 3
+      }
+    ]
+  },
+  {
+    question: "다문화주의는 우리 사회에 위협이 됩니다.",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "b1",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "b0",
+        value: 3
+      }
+    ]
+  },
+  {
+    question: "좋은 시민은 곧 애국자입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -458,7 +441,7 @@ var questions = [
   },
   {
     question:
-      "It is necessary to teach history in order to create a sense of belonging to the nation.",
+      "경제적 이익을 방어하기 위한 국가의 군사적 개입은 정당합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -475,7 +458,24 @@ var questions = [
   },
   {
     question:
-      "Research produced by my country should not be available to other countries.",
+      "민족의식을 심어주기 위해 역사교육은 꼭 필요합니다.",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "b1",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "b0",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "우리나라에서 진행된 연구는 다른 나라에서 사용할 수 없어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1963,7 +1963,7 @@ function init_question() {
   document.getElementById("question-text").innerHTML = questions[qn].question;
   document.getElementById(
     "question-number"
-  ).innerHTML = "%sum%개 중 %num% 번째 질문"
+  ).innerHTML = "%sum%개 중 %num%번째 질문"
     .replace("%num%", qn + 1)
     .replace("%sum%", questions.length);
   if (qn == 0) {

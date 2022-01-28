@@ -1,6 +1,6 @@
 # PolitiScales 질문들
 
-자동 적용 python3 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
+자동 적용 Python3 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
 
 * 번호가 매겨진 질문들만이 자동으로 ``quiz.js``에 적용됩니다.
 * 질문 안쪽에 큰따옴표 (")가 들어가서는 안 됩니다.
@@ -10,7 +10,7 @@
 
 개인이란 무엇인지, 그리고 유전/생물학적 본성과 사회 구조 사이에서 어떤 것이 개인을 만드는 것인지 생각해 보세요.
 
-**구성주의**는 사람들이 환경(특히 사회적 환경)안에서 스스로를 만들어 가며, 자신들의 정체성 역시 '환경'아래 학습한다고 생각합니다.
+**구성주의**는 사람들이 환경(특히 사회적 환경)안에서 스스로를 만들어 가며, 자신들의 정체성 역시 환경 안에서 학습한다고 생각합니다.
 
 반대로, **본질주의**는 한 사람의 본성 그리고 그 한사람을 이루는 정체성 모두 유전/생물학적으로 타고난 것이라고 생각합니다.
 
@@ -31,24 +31,24 @@
 
 ### 국제주의/민족주의
 
-**국제주의** is a set of different ides which have for common point to stop making a hierarchy between countries and their inhabitants and to promote as much as possible their cooperation. Pushed to its maximum the final objective is the abolitions of borders.
+**국제주의**는 국가간의 위계질서를 철폐하고, 국가간의 협력을 가능한 한 이끌어 낸다는 공통점이 있는 일련의 다양한 이념(이데올리기) 집합입니다. 국제주의에서 밀어붙이는 궁극적인 목표는 바로 국경의 철폐입니다.
 
-On the other hand, **민족주의** is a set of heterogeneous ideas which, when applied, favor one country and its citizens over foreigners, it also justifies the idea that each people has a nation.
+다른 한 편, **민족주의**는 외국인 또는 다문화주의보다 한 국가와 한 민족을 선호하는 다양한 이념의 집합입니다. 민족주의는 각 민족이 각각의 국가를 가진다는 신념을 정당화 하기도 합니다.
 
-15. Borders should eventually be abolished.
-16. People need to stand up for their ideals, even if it leads them to betray their country.
-17. My country must pay for the damages caused by the crimes it committed in other countries.
-18. If two countries have similar economies, social systems and environmental norms, then the free market between them has no negative impact.
-19. National Chauvinism during sports competitions is not acceptable.
-20. I am equally concerned about the inhabitants of my country and those of other the countries.
-21. Foreigners living in my country should be allowed to act politically, equally to those who have the nationality.
-22. Citizens should take priority over foreigners.
-23. The values of my country are superior to those of other countries.
-24. Multiculturalism is a threat to our society.
-25. A good citizen is a patriot.
-26. It is legitimate for a country to intervene militarily to defend its economic interests.
-27. It is necessary to teach history in order to create a sense of belonging to the nation.
-28. Research produced by my country should not be available to other countries.
+15. 국경은 결국 사라져야만 합니다.
+16. 국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다. <i>(국민은 국가를 등지게 될지라도, 자신의 이상을 위해 일어날 수 있어야 합니다.)</i>
+17. 우리 나라는 우리 국민이 다른 나라에서 저지른 범죄에 대해서도 배상해야만 합니다.
+18. 어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 국가 사이의 자유 시장은 부정적 영향을 주고 받지 않을 것 입니다.
+19. 스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>
+20. '전 제 나라의 주민들과 똑같이 다른 나라의 주민들에 대해서도 걱정하고 있습니다.'
+21. 우리나라에 사는 외국인들은, 우리나라의 국민들과 동등하게 정치적으로 행동할 수 있어야 합니다. <i>(외국인들도 내국인과 같이 시위, 노조, 단체 등을 자유롭게 결성할 수 있어야 합니다.)</i>
+22. 시민이 외국인보다 우선이어야 합니다.
+23. 우리 나라의 가치는 다른 나라의 가치보다 우월합니다.
+24. 다문화주의는 우리 사회에 위협이 됩니다.
+25. 좋은 시민은 곧 애국자입니다.
+26. 경제적 이익을 방어하기 위한 국가의 군사적 개입은 정당합니다.
+27. 민족의식을 심어주기 위해 역사교육은 꼭 필요합니다.
+28. 우리나라에서 진행된 연구는 다른 나라에서 사용할 수 없어야만 합니다.
 
 ### 사회주의/자본주의
 
