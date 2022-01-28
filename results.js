@@ -141,14 +141,14 @@ characteristics.sort(function(a, b) {
 });
 
 var charSlogan = {
-  b0: "인간애",
+  b0: "인류",
   b1: "애국",
   c0: "평등",
   e0: "자연",
   j0: "정의",
   j1: "질서",
   m1: "자유",
-  p0: "사회주의",
+  p0: "분배",
   p1: "노동",
   s1: "가족",
   t0: "혁명"

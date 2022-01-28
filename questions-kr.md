@@ -1,14 +1,17 @@
 # PolitiScales 질문들
-자동 적용 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 시스템과 호환됩니다.
+
+자동 적용 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
 
 * 질문 안쪽에 큰따옴표 (")가 들어가서는 안 됩니다.
 * 질문 안쪽에 숫자와 온점이 들어가서는 안 됩니다.
 
 ### 구성주의/본질주의
 
-The **Constructivists** consider that people build themselves from their environment (notably social) and that the characteristics that make them who they are, are acquired.
+consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
 
-On the contrary, the **Essentialists** consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
+The **구성주의** consider that people build themselves from their environment (notably social) and that the characteristics that make them who they are, are acquired.
+
+On the contrary, the **본질주의** consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
 
 1. “One is not born, but rather becomes, a woman.”
 2. Differences in treatment and quality of life in our society show that racism is still omnipresent.
@@ -27,9 +30,9 @@ On the contrary, the **Essentialists** consider that an individual is by nature 
 
 ### 국제주의/민족주의
 
-**Internationalism** is a set of different ides which have for common point to stop making a hierarchy between countries and their inhabitants and to promote as much as possible their cooperation. Pushed to its maximum the final objective is the abolitions of borders.
+**국제주의** is a set of different ides which have for common point to stop making a hierarchy between countries and their inhabitants and to promote as much as possible their cooperation. Pushed to its maximum the final objective is the abolitions of borders.
 
-On the other hand, **Nationalism** is a set of heterogeneous ideas which, when applied, favor one country and its citizens over foreigners, it also justifies the idea that each people has a nation.
+On the other hand, **민족주의** is a set of heterogeneous ideas which, when applied, favor one country and its citizens over foreigners, it also justifies the idea that each people has a nation.
 
 15. Borders should eventually be abolished.
 16. People need to stand up for their ideals, even if it leads them to betray their country.
@@ -48,9 +51,9 @@ On the other hand, **Nationalism** is a set of heterogeneous ideas which, when a
 
 ### 사회주의/자본주의
 
-**Communism** is a vast political doctrine. In this test a majority for communism simply signifies that you are for a public property of the means of production.
+**사회주의** is a vast political doctrine. In this test a majority for communism simply signifies that you are for a public property of the means of production.
 
-**Capitalism** is as well an ambivalent concept. In this test a majority for capitalism simply signifies that you are for a private property of the means of production.
+**자본주의** is as well an ambivalent concept. In this test a majority for capitalism simply signifies that you are for a private property of the means of production.
 
 29. No one should get rich from owning a business, housing, or land.
 30. Wage labor is a form of theft from the worker by companies.
@@ -71,9 +74,9 @@ On the other hand, **Nationalism** is a set of heterogeneous ideas which, when a
 
 This axis represents the attitude that a government needs to have concerning the market economy in which an important part of the means of production are private. Liberals and Keynesians are opposed to the method that needs to be adopted without putting into question capitalism. If you are more capitalist, this axis represents your goal in terms of economy. If you are more communist, this axis represents the least bad that you can expect of the current system.
 
-**Regulationism** or interventionism is an idea in which the economical activity should be regulated for the common interest. It can be through legislation, planning, subventions, a variable taxation...
+**규제주의** or interventionism is an idea in which the economical activity should be regulated for the common interest. It can be through legislation, planning, subventions, a variable taxation...
 
-On the contrary, the **Laissez-faire** is the ideas in which the economical activity should not be regulated because it would in itself correspond to the common interest. It can be through a weak legislation, few or no subventions, a fixed taxation and often weak or even the complete suppression of the role of the state in the economy.
+On the contrary, the **불간섭주의** is the ideas in which the economical activity should not be regulated because it would in itself correspond to the common interest. It can be through a weak legislation, few or no subventions, a fixed taxation and often weak or even the complete suppression of the role of the state in the economy.
 
 43. Revenues and capital should be taxed to redistribute wealth.
 44. The age of retirement should be lowered.
@@ -92,9 +95,9 @@ On the contrary, the **Laissez-faire** is the ideas in which the economical acti
 
 ### 진보주의/보수주의
 
-The **Progressives** try to build social progress, make a better society without caring about traditions. They often consider the present as better than the past and that it is necessary to keep on this path.
+The **진보주의** try to build social progress, make a better society without caring about traditions. They often consider the present as better than the past and that it is necessary to keep on this path.
 
-On the contrary the **Conservatives** want to keep the status quo and even to reinsert some values already considered as disappeared or disappearing. Traditions, among those the religious heritage, are put forward as a source of wisdom.
+On the contrary the **보수주의** want to keep the status quo and even to reinsert some values already considered as disappeared or disappearing. Traditions, among those the religious heritage, are put forward as a source of wisdom.
 
 57. Traditions should be questioned.
 58. I do not have any problem if other official languages are added or replace the already existing official language in my country.
@@ -113,9 +116,9 @@ On the contrary the **Conservatives** want to keep the status quo and even to re
 
 ### 생태주의/산업주의
 
-**Ecology** in politics privileges the protection of the environment by limiting as much as possible the impact of human activities on the biodiversity even if it implies to limit the these human activities by modifying more or less radically our current way of life.
+**생태주의** in politics privileges the protection of the environment by limiting as much as possible the impact of human activities on the biodiversity even if it implies to limit the these human activities by modifying more or less radically our current way of life.
 
-**Production** privileges human needs notably by supporting the increase of the production or the use of methods that have an uncertain impact on the environment.
+**산업주의** privileges human needs notably by supporting the increase of the production or the use of methods that have an uncertain impact on the environment.
 
 71. It is not acceptable that human actions should lead to the extinction of species.
 72. GMOs should be forbidden outside research and medical purposes.
@@ -134,9 +137,9 @@ On the contrary the **Conservatives** want to keep the status quo and even to re
 
 ### 교정주의/엄벌주의
 
-The ones in favor of the **Rehabilitative Justice** consider that the role of justice is to put the condemned on the “right path” again by making them understand why they should not do what they did and why they were condemned and by accompanying them all along the process.
+The ones in favor of the **교정주의** consider that the role of justice is to put the condemned on the “right path” again by making them understand why they should not do what they did and why they were condemned and by accompanying them all along the process.
 
-Conversely the ones in favor of the **Punitive Justice** consider that the role of justice is dissuasive, both for the condemned (to avoid recidivism) and for the rest of the society (by making them examples not to follow).
+Conversely the ones in favor of the **엄벌주의** consider that the role of justice is dissuasive, both for the condemned (to avoid recidivism) and for the rest of the society (by making them examples not to follow).
 
 85. Prisons should no longer exist.
 86. It is unfair to set a minimal penalty for an offense or a crime.
@@ -154,9 +157,9 @@ Conversely the ones in favor of the **Punitive Justice** consider that the role 
 
 ### 급진주의/개혁주의
 
-**Revolutionaries** have a tendency to privilege direct action, often in the margin of legality, to reach their goal: replace the current political organization for totally different one.
+**급진주의** have a tendency to privilege direct action, often in the margin of legality, to reach their goal: replace the current political organization for totally different one.
 
-**Reformists** have a tendency to privilege legal action to reach their goal: reform the political organization step by step. This can be done through the institutions, via elections, authorized demonstrations, petitions...
+**개혁주의** have a tendency to privilege legal action to reach their goal: reform the political organization step by step. This can be done through the institutions, via elections, authorized demonstrations, petitions...
 
 98. Mass strike is a good way to acquire new rights.
 99. Armed struggle in a country is sometimes necessary.
@@ -175,9 +178,9 @@ Conversely the ones in favor of the **Punitive Justice** consider that the role 
 
 ### 추가 휘장들
 
--   **Missionary**: My religion must be spread as widely as possible.
--   **Conspiratorial**: It is a small group that consciously and secretly controls the world.
--   **Pragmatist**: A good policy is a pragmatic policy without ideology.
--   **Monarchist**: We need to establish a monarchy to federate the people and preserve our sovereignty.
--   **Vegan**: Humans should neither eat nor exploit animals.
--   **Anarchist**: The State should be abolished.
+-   **선교사**: 제 종교는 가능한 한 넓게 퍼져야 합니다.
+-   **음모론자**: 세상은 작고 비밀스러운 모임에 의해 통제되고 있습니다.
+-   **실용주의자**: 좋은 정책은 이념과 관련 없이 실용적인 정책입니다.
+-   **군주주의자**: 국민들을 규합하고 주권을 지키기 위해서는 군주제가 필요합니다.
+-   **완전 채식주의자**: 인간은 먹거나 착취해서는 안 됩니다.
+-   **무정부주의자**: 국가는 폐지되어야만 합니다.

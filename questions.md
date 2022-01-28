@@ -2,6 +2,8 @@
 
 ### Constructivism/Essentialism
 
+consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
+
 The **Constructivists** consider that people build themselves from their environment (notably social) and that the characteristics that make them who they are, are acquired.
 
 On the contrary, the **Essentialists** consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
