@@ -3,7 +3,7 @@
 var questions = [
   // Constructivism/Essentialism
   {
-    question: "“One is not born, but rather becomes, a woman.”",
+    question: "“태어나지 않고, 되는 것이 하나 있습니다. 바로 여성입니다.” <i>(남성/여성은 생물학적으로 타고 나는 것이 아니라, 사회가 만드는 것 이라고 생각합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -24,7 +24,7 @@ var questions = [
   },
   {
     question:
-      "Differences in treatment and quality of life in our society show that racism is still omnipresent.",
+      "인종간의 처우와 삶의 질 차이는 우리 사회에 인종차별이 여전히 만연해 있음을 뜻합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -41,7 +41,7 @@ var questions = [
   },
   {
     question:
-      "All sciences, even chemistry and biology are not uncompromising and are conditioned by our society.",
+      "화학과 생물학을 포함한 과학은 사실 엄밀하지 않으며, 우리 사회에서 큰 영향을 받습니다. <i>(과학이 추구하는 '엄밀함'과는 달리, 과학에는 정치와 같은 사회적 요소들이 개입하기도 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -58,7 +58,7 @@ var questions = [
   },
   {
     question:
-      "The categories “women” and “men” are social constructs that should be given up.",
+      "“여성”과 “남성”이라는 사회적 구분은 사라져야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -78,7 +78,7 @@ var questions = [
     ]
   },
   {
-    question: "Nobody is by nature predisposed to criminality.",
+    question: "그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건이나 행동 양식 등, 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -94,24 +94,7 @@ var questions = [
     ]
   },
   {
-    question: "Sexual orientation is a social construct.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "c0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "c1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "Social differences between ethnic groups cannot be explained by biology.",
+    question: "성적 지향은 사회에 의해 만들어 집니다. <i>(이성애/동성애/양성애와 같은 성적 지향은 생물학적으로 타고 나는 것이 아닌 사회가 만드는 것 이라고 생각합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -128,7 +111,24 @@ var questions = [
   },
   {
     question:
-      "The social roles of women and men can partly be explained by biological differences.",
+      "인종간의 사회적 차이는 생물학으로 설명될 수 없습니다. <i>(인종간의 서로 다른 문화와 평균적 생활 수준의 차이는 타고 나는 것이 아닌 성장 환경 등의 차이입니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "c0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "c1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "남성과 여성의 전통적인 사회적 역할은 부분적으로 생물학적 차이에 의해 설명될 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -149,7 +149,7 @@ var questions = [
   },
   {
     question:
-      "Hormonal differences can explain some differences in individual characteristics between women and men.",
+      "호르몬의 차이는 여성과 남성 개인들의 차이 일부를 설명할 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -190,7 +190,7 @@ var questions = [
   },
   {
     question:
-      "Transgender individuals will never really be of the gender they would like to be.",
+      "트랜스젠더는 진정으로 원하는 성별이 될 수 없습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -207,7 +207,7 @@ var questions = [
   },
   {
     question:
-      "Members of a nation or culture have some unchangeable characteristics that define them.",
+      "국가 또는 문화권의 구성원은 어떤 국가 또는 문화권만의 절대적인 특징을 가지고 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -223,7 +223,7 @@ var questions = [
     ]
   },
   {
-    question: "Biologically, human beings are designed for heterosexuality.",
+    question: "생물학적으로, 사람은 이성애를 위해 설계되었습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -240,7 +240,7 @@ var questions = [
   },
   {
     question:
-      "Selfishness is the overriding drive in the human species, no matter the context.",
+      "이기심은 상황에 관계 없이, 언제나 인간 종의 주된 원동력 이었습니다.",
     answer: 0,
     valuesYes: [
       {

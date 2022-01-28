@@ -1,32 +1,33 @@
 # PolitiScales 질문들
 
-자동 적용 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
+자동 적용 python3 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
 
+* 번호가 매겨진 질문들만이 자동으로 ``quiz.js``에 적용됩니다.
 * 질문 안쪽에 큰따옴표 (")가 들어가서는 안 됩니다.
-* 질문 안쪽에 숫자와 온점이 들어가서는 안 됩니다.
+* 질문 안쪽에 숫자와 온점(N.)이 들어가서는 안 됩니다.
 
 ### 구성주의/본질주의
 
-consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
+개인이란 무엇인지, 그리고 유전/생물학적 본성과 사회 구조 사이에서 어떤 것이 개인을 만드는 것인지 생각해 보세요.
 
-The **구성주의** consider that people build themselves from their environment (notably social) and that the characteristics that make them who they are, are acquired.
+**구성주의**는 사람들이 환경(특히 사회적 환경)안에서 스스로를 만들어 가며, 자신들의 정체성 역시 '환경'아래 학습한다고 생각합니다.
 
-On the contrary, the **본질주의** consider that an individual is by nature how he/she is and that his/her characteristics which make this person who she/he is, are innate.
+반대로, **본질주의**는 한 사람의 본성 그리고 그 한사람을 이루는 정체성 모두 유전/생물학적으로 타고난 것이라고 생각합니다.
 
-1. “One is not born, but rather becomes, a woman.”
-2. Differences in treatment and quality of life in our society show that racism is still omnipresent.
-3. All sciences, even chemistry and biology are not uncompromising and are conditioned by our society.
-4. The categories “women” and “men” are social constructs that should be given up.
-5. Nobody is by nature predisposed to criminality.
-6. Sexual orientation is a social construct.
-7. Social differences between ethnic groups cannot be explained by biology.
-8. The social roles of women and men can partly be explained by biological differences.
-9. Hormonal differences can explain some differences in individual characteristics between women and men.
-10. Sexual assaults are partly caused by men's natural impulse.
-11. Transgender individuals will never really be of the gender they would like to be.
-12. Members of a nation or culture have some unchangeable characteristics that define them.
-13. Biologically, human beings are designed for heterosexuality.
-14. Selfishness is the overriding drive in the human species, no matter the context.
+1. “태어나지 않고, 되는 것이 하나 있습니다. 바로 여성입니다.” <i>(남성/여성은 생물학적으로 타고 나는 것이 아니라, 사회가 만드는 것 이라고 생각합니다.)</i>
+2. 인종간의 처우와 삶의 질 차이는 우리 사회에 인종차별이 여전히 만연해 있음을 뜻합니다.
+3. 화학과 생물학을 포함한 과학은 사실 엄밀하지 않으며, 우리 사회에서 큰 영향을 받습니다. <i>(과학이 추구하는 '엄밀함'과는 달리, 과학에는 정치와 같은 사회적 요소들이 개입하기도 합니다.)</i>
+4. “여성”과 “남성”이라는 사회적 구분은 사라져야만 합니다.
+5. 그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건과 같이 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>
+6. 성적 지향은 사회에 의해 만들어 집니다. <i>(이성애/동성애/양성애와 같은 성적 지향은 생물학적으로 타고 나는 것이 아닌 사회가 만드는 것 이라고 생각합니다.)</i>
+7. 인종간의 사회적 차이는 생물학으로 설명될 수 없습니다. <i>(인종간의 서로 다른 문화와 같은 차이점들은 타고 나는 것이 아닌 성장 환경 등의 차이입니다.)</i>
+8. 남성과 여성의 서로 다른 사회적 역할은 부분적으로 생물학적 차이에 의해 설명될 수 있습니다.
+9. 호르몬의 차이는 여성과 남성사이의 차이 일부를 설명할 수 있습니다.
+10. 성폭행은 부분적으로 남성/여성의 자연스러운 충동에 의해 일어납니다.
+11. 트랜스젠더는 진정으로 원하는 성별이 될 수 없습니다.
+12. 몇 가지의 절대적인 특징을 이용해, 특정 국가 또는 문화권에 속한 사람들을 구분해 낼 수 있습니다.
+13. 생물학적으로, 사람은 이성애를 위해 설계되었습니다.
+14. 이기심은 상황에 관계 없이, 언제나 인간 종의 주된 원동력 이었습니다.
 
 ### 국제주의/민족주의
 
