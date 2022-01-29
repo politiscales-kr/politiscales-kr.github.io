@@ -1832,7 +1832,7 @@ var questions = [
   },
   {
     question:
-      "We should always distance ourselves from protesters who use violence.",
+      "We should always break with protesters who use violence.",
     answer: 0,
     valuesYes: [
       {
@@ -1866,7 +1866,7 @@ var questions = [
   },
   {
     question:
-      "Changes in an individual’s way of life can induce changes in society.",
+      "Changes in an individual's way of life can induce changes in society.",
     answer: 0,
     valuesYes: [
       {

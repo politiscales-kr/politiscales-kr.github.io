@@ -41,7 +41,7 @@ var questions = [
   },
   {
     question:
-      "화학과 생물학을 포함한 과학은 사실 엄밀하지 않으며, 우리 사회에서 큰 영향을 받습니다. <i>(과학이 추구하는 '엄밀함'과는 달리, 과학에는 정치와 같은 사회적 요소들이 개입하기도 합니다.)</i>",
+      "화학과 생물학을 포함한 과학은 사실 엄밀하지 않으며, 우리 사회에서 큰 영향을 받습니다. <i>(과학이 추구하는 “엄밀함”과는 달리, 과학에는 정치와 같은 사회적 요소들이 개입하기도 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -325,7 +325,7 @@ var questions = [
   },
   {
     question:
-      "스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 국가/민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>",
+      "스포츠 경기 중, 국가 우월주의<i>Chauvinism</i>는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 국가/민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -342,7 +342,7 @@ var questions = [
   },
   {
     question:
-      "'전 제 나라의 주민들과 똑같이 다른 나라의 주민들에 대해서도 걱정하고 있습니다.'",
+      "“전 제 나라의 주민들과 똑같이 다른 나라의 주민들에 대해서도 걱정하고 있습니다”.",
     answer: 0,
     valuesYes: [
       {
@@ -906,7 +906,7 @@ var questions = [
   },
   {
     question:
-      "환경 규제는 규제당국이 아닌 대량소비(Mass Consumption)에 영향을 받아야 합니다. <i>(환경 규제는 포괄적인 행정 절차보다, 규격화된 대량 소비에 맞춰 정해져야 합니다.)</i>",
+      "환경 규제는 규제당국이 아닌 대량소비<i>Mass Consumption</i>에 영향을 받아야 합니다. <i>(환경 규제는 포괄적인 행정 절차보다, 규격화된 대량 소비에 맞춰 정해져야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1041,7 +1041,7 @@ var questions = [
     ]
   },
   {
-    question: "언어는 학자들이 아닌 사용자들에 의해 정의됩니다. <i>(정교한 어문 규정보다는 여러 신조어들이 '우리 말'에 더 가깝습니다.)</i>",
+    question: "언어는 학자들이 아닌 사용자들에 의해 정의됩니다. <i>(정교한 어문 규정보다는 여러 신조어들이 “우리 말”에 더 가깝습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1184,7 +1184,7 @@ var questions = [
   },
   {
     question:
-      "'성행위'의 본질을 지키기 위해서는, 피임보다는 금욕이 더 좋습니다.",
+      "“성행위”의 본질을 지키기 위해서는, 피임보다는 금욕이 더 좋습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1218,7 +1218,7 @@ var questions = [
     ]
   },
   {
-    question: "연구 및 의료목적을 제외한 모든 유전자조작(GMO)은 금지되어야 합니다.",
+    question: "연구 및 의료목적을 제외한 모든 유전자조작<i>GMO</i>은 금지되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1268,7 +1268,7 @@ var questions = [
   },
   {
     question:
-      "생산량이 줄어드는 한이 있더라도, 생물 다양성(Biodiversity)을 유지하는 농업이 장려되어야 합니다.",
+      "생산량이 줄어드는 한이 있더라도, 생물 다양성<i>Biodiversity</i>을 유지하는 농업이 장려되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1369,7 +1369,7 @@ var questions = [
   },
   {
     question:
-      "인간 개량(Transhumanism)은 우리의 역량을 끌어올릴 수 있기 때문에 유익할 것입니다.",
+      "인간 개량<i>Transhumanism</i>은 우리의 역량을 끌어올릴 수 있기 때문에 유익할 것입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1569,7 +1569,7 @@ var questions = [
     ]
   },
   {
-    question: "경찰은 무장해야(Armed) 합니다.",
+    question: "경찰은 무장해야<i>Armed</i> 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1618,7 +1618,7 @@ var questions = [
     ]
   },
   {
-    question: "무거운 처벌은 범죄를 막도록 '설득'할 수 있기 때문에 효율적입니다. <i>(처벌받을 수 있다는 공포가 범죄를 막을 수 있기에, 무거운 처벌은 효율적입니다.)</i>",
+    question: "무거운 처벌은 범죄를 막도록 “설득”할 수 있기 때문에 효율적입니다. <i>(처벌받을 수 있다는 공포가 범죄를 막을 수 있기에, 무거운 처벌은 효율적입니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1652,7 +1652,7 @@ var questions = [
   },
   // Revolution/Reform
   {
-    question: "Mass strike is a good way to acquire new rights.",
+    question: "대규모 파업은 새로운 권리를 얻기 위한 좋은 방법입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1668,7 +1668,7 @@ var questions = [
     ]
   },
   {
-    question: "Armed struggle in a country is sometimes necessary.",
+    question: "때로는 무력투쟁이 꼭 필요할 때가 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1684,24 +1684,7 @@ var questions = [
     ]
   },
   {
-    question: "Insurrection is necessary to deeply change society.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "t0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "t1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "Activism in existing political organizations is not relevant to change society.",
+    question: "사회를 근본적으로 바꾸기 위해서는 폭동이 꼭 필요합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1718,7 +1701,24 @@ var questions = [
   },
   {
     question:
-      "Elections organized by the state cannot question the powers in place.",
+      "기존 정치 조직의 행동은 결국 사회를 변화시키지 못 했습니다. <i>(사회를 변화시키기 위해서는 더 강한 행동이 필요합니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "t0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "t1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "국가가 주최한 선거로는 국가를 바꿀 수 없습니다. <i>(국가는 선거로 권력을 뒤바꾸는 것을 두고 보고 있지 않을 것 입니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1750,7 +1750,7 @@ var questions = [
     ]
   },
   {
-    question: "Sabotage is legitimate under certain conditions.",
+    question: "태업<i>Sabotage</i>은 특별한 조건 아래 합법입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1766,7 +1766,7 @@ var questions = [
     ]
   },
   {
-    question: "Activists must always act in strict accordance with the law.",
+    question: "운동가<i>Activist</i>는 항상 법률 안에서 행동해야 합니다. <i>(운동가들은 법을 지키며 활동해야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1782,7 +1782,7 @@ var questions = [
     ]
   },
   {
-    question: "Revolutions will always end up in a bad way.",
+    question: "혁명은 항상 나쁜 방향으로 끝날 것입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1799,7 +1799,7 @@ var questions = [
   },
   {
     question:
-      "Changing the system radically is counter-productive. We should rather transform it progressively.",
+      "시스템을 급진적으로 바꾸는 것은 비효율적입니다. 오히려 점진적으로 바꿔 나가는 것이 효율적입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1815,7 +1815,7 @@ var questions = [
     ]
   },
   {
-    question: "Violence against individuals is never productive.",
+    question: "개인에 대한 폭력은 결코 생산적이지 않습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1849,7 +1849,7 @@ var questions = [
   },
   {
     question:
-      "We need to make compromises with the opposition to apply our ideas.",
+      "우리의 아이디어를 적용하기 위해서는 반대측과 타협할 필요가 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1883,7 +1883,7 @@ var questions = [
   },
   // Bonus Badges
   {
-    question: "'제 종교는 가능한 한 넓게 퍼져야 합니다.'",
+    question: "“제 종교는 가능한 한 넓게 퍼져야 합니다”.",
     answer: 0,
     valuesYes: [
       {
