@@ -169,7 +169,7 @@ var questions = [
     ]
   },
   {
-    question: "Sexual assaults are partly caused by men’s natural impulse.",
+    question: "Sexual assaults are partly caused by men's natural impulse.",
     answer: 0,
     valuesYes: [
       {
@@ -590,7 +590,7 @@ var questions = [
     ]
   },
   {
-    question: "The labor market enslaves workers.",
+    question: "The labor market enslave workers.",
     answer: 0,
     valuesYes: [
       {
@@ -606,7 +606,7 @@ var questions = [
     ]
   },
   {
-    question: "Looking for one’s own profit is healthy for the economy.",
+    question: "Looking for one's own profit is healthy for the economy.",
     answer: 0,
     valuesYes: [
       {
@@ -772,7 +772,7 @@ var questions = [
   },
   {
     question:
-      "Minimal levels of salary should be ensured to make sure that a worker can live of their work.",
+      "Minimal levels of salary should be ensured to make sure that a worker can live off their work.",
     answer: 0,
     valuesYes: [
       {
@@ -1074,7 +1074,7 @@ var questions = [
   },
   {
     question:
-      "Homosexuals should not be treated equally to heterosexuals with regards to marriage, parentage, adoption or procreation.",
+      "Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage    , adoption or procreation.",
     answer: 0,
     valuesYes: [
       {
@@ -1114,7 +1114,7 @@ var questions = [
     ]
   },
   {
-    question: "Technological progress must not change society too quickly.",
+    question: "Technical progress should not change society too quickly.",
     answer: 0,
     valuesYes: [
       {

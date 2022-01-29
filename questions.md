@@ -173,9 +173,9 @@ Conversely the ones in favor of the **Punitive Justice** consider that the role 
 
 ### Bonus Badges
 
--   **Missionary**: My religion must be spread as widely as possible.
--   **Conspiratorial**: It is a small group that consciously and secretly controls the world.
--   **Pragmatist**: A good policy is a pragmatic policy without ideology.
--   **Monarchist**: We need to establish a monarchy to federate the people and preserve our sovereignty.
--   **Vegan**: Humans should neither eat nor exploit animals.
--   **Anarchist**: The State should be abolished.
+-   **Missionary**: 01. My religion must be spread as widely as possible.
+-   **Conspiratorial**: 02. It is a small group that consciously and secretly controls the world.
+-   **Pragmatist**: 03. A good policy is a pragmatic policy without ideology.
+-   **Monarchist**: 04. We need to establish a monarchy to federate the people and preserve our sovereignty.
+-   **Vegan**: 05. Humans should neither eat nor exploit animals.
+-   **Anarchist**: 06. The State should be abolished.

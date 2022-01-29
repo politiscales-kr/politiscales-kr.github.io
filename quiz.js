@@ -169,7 +169,7 @@ var questions = [
     ]
   },
   {
-    question: "Sexual assaults are partly caused by men’s natural impulse.",
+    question: "성폭행은 부분적으로 남성/여성의 자연스러운 충동에 의해 일어납니다.",
     answer: 0,
     valuesYes: [
       {
@@ -590,7 +590,7 @@ var questions = [
     ]
   },
   {
-    question: "The labor market enslaves workers.",
+    question: "노동 시장은 노동자를 노예로 만듭니다.",
     answer: 0,
     valuesYes: [
       {
@@ -606,7 +606,7 @@ var questions = [
     ]
   },
   {
-    question: "Looking for one’s own profit is healthy for the economy.",
+    question: "자신의 이익을 추구하는 것은 경제에 있어 긍정적입니다. <i>(이익 추구가 곧 건강한 시장을 만듭니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -772,7 +772,7 @@ var questions = [
   },
   {
     question:
-      "Minimal levels of salary should be ensured to make sure that a worker can live of their work.",
+      "근로자가 일을 하며 생활할 수 있도록 최소한의 급여가 보장되어야만 합니다. <i>(최저임금은 보장되어야만 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -822,7 +822,7 @@ var questions = [
   },
   {
     question:
-      "일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등은 정부가 제정적 지원을 제공해야만 합니다.)</i>",
+      "일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등에 대해 정부는 제정적 지원을 제공해야만 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -939,7 +939,7 @@ var questions = [
   },
   {
     question:
-      "국영기업 역시 사기업과 같이, 경쟁과 수익성과 같은 시장논리에 따라 운영되어야만 합니다.",
+      "국영기업 역시 사기업과 같이, 경쟁이나 수익성과 같은 시장논리에 따라 운영되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -956,7 +956,7 @@ var questions = [
   },
   // Progressive/Conservative
   {
-    question: "Traditions should be questioned.",
+    question: "전통에는 의문을 가져야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -973,7 +973,7 @@ var questions = [
   },
   {
     question:
-      "I do not have any problem if other official languages are added or replace the already existing official language in my country.",
+      "우리 나라에 이미 존재하는 공용어에 다른 언어를 추가하거나, 다른 언어로 공용어가 교체된다고 해도 문제 없이 받아들일 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -989,7 +989,7 @@ var questions = [
     ]
   },
   {
-    question: "Marriage should be abolished.",
+    question: "결혼은 폐지되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1009,7 +1009,7 @@ var questions = [
     ]
   },
   {
-    question: "Foreigners enrich our culture.",
+    question: "외국인은 우리 문화를 풍요롭게 만듭니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1025,7 +1025,7 @@ var questions = [
     ]
   },
   {
-    question: "The influence of religion should decrease.",
+    question: "종교의 영향력은 줄어들어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1041,7 +1041,7 @@ var questions = [
     ]
   },
   {
-    question: "A language is defined by its users, not by scholars.",
+    question: "언어는 학자들이 아닌 사용자들에 의해 정의됩니다. <i>(정교한 어문 규정보다는 여러 신조어들이 '우리 말'에 더 가깝습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1057,7 +1057,7 @@ var questions = [
     ]
   },
   {
-    question: "Euthanasia should be authorized.",
+    question: "안락사는 허용되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1074,7 +1074,7 @@ var questions = [
   },
   {
     question:
-      "Homosexuals should not be treated equally to heterosexuals with regards to marriage, parentage, adoption or procreation.",
+      "Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage    , adoption or procreation.",
     answer: 0,
     valuesYes: [
       {
@@ -1090,7 +1090,7 @@ var questions = [
     ]
   },
   {
-    question: "In some specific conditions, the death penalty is justified.",
+    question: "일부 특별한 상황에서는 사형이 정당화될 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1114,7 +1114,7 @@ var questions = [
     ]
   },
   {
-    question: "Technological progress must not change society too quickly.",
+    question: "기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용될 필요가 있습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1131,7 +1131,7 @@ var questions = [
   },
   {
     question:
-      "School should mostly teach our values, traditions, and fundamental knowledge.",
+      "학교는 주로 우리의 가치, 전통, 그리고 기본 원칙들을 가르쳐야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1147,7 +1147,7 @@ var questions = [
     ]
   },
   {
-    question: "Abortion should be limited to specific cases.",
+    question: "낙태는 특별한 상황에서만 허용되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1167,7 +1167,7 @@ var questions = [
     ]
   },
   {
-    question: "The main goal of a couple is to make at least one child.",
+    question: "부부의 중요한 목표는 적어도 한 명의 자녀를 만드는 것입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1184,7 +1184,7 @@ var questions = [
   },
   {
     question:
-      "Abstinence should be preferred to contraception, to preserve the true nature of the sexual act.",
+      "'성행위'의 본질을 지키기 위해서는, 피임보다는 금욕이 더 좋습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1883,7 +1883,7 @@ var questions = [
   },
   // Bonus Badges
   {
-    question: "My religion must be spread as widely as possible.",
+    question: "'제 종교는 가능한 한 넓게 퍼져야 합니다.'",
     answer: 0,
     valuesYes: [
       {
@@ -1894,7 +1894,7 @@ var questions = [
     valuesNo: []
   },
   {
-    question: "A good policy is a pragmatic policy without ideology.",
+    question: "좋은 정책은 이념과 관련 없이 실용적인 정책입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1906,7 +1906,7 @@ var questions = [
   },
   {
     question:
-      "We need to establish a monarchy to federate the people and preserve our sovereignty.",
+      "국민들을 규합하고 주권을 지키기 위해서는 군주제가 필요합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1917,7 +1917,7 @@ var questions = [
     valuesNo: []
   },
   {
-    question: "Humans should neither eat nor exploit animals.",
+    question: "인간은 동물을 먹거나 착취해서는 안 됩니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1928,7 +1928,7 @@ var questions = [
     valuesNo: []
   },
   {
-    question: "The State should be abolished.",
+    question: "국가는 폐지되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
