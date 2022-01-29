@@ -3,7 +3,7 @@
 var questions = [
   // Constructivism/Essentialism
   {
-    question: "“태어나지 않고, 되는 것이 하나 있습니다. 바로 여성입니다.” <i>(남성/여성은 생물학적으로 타고 나는 것이 아니라, 사회가 만드는 것 이라고 생각합니다.)</i>",
+    question: "“태어나는 것이 아닌, 되는 것이 하나 있습니다. 바로 여성입니다.” <i>(남성/여성은 생물학적으로 타고 나는 것이 아니라, 사회가 만드는 것 이라고 생각합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -78,7 +78,7 @@ var questions = [
     ]
   },
   {
-    question: "그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건과 같이 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>",
+    question: "그 누구도 본질적으로 범죄에 취약하지 않습니다. <i>(신체적 조건과 같은 생물학적으로 타고 나는 것들은 범죄와 관련이 없습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -308,7 +308,7 @@ var questions = [
   },
   {
     question:
-      "어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 국가 사이의 자유 시장은 부정적 영향을 주고 받지 않을 것 입니다.",
+      "어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 나라 사이의 자유 시장은 부정적 영향을 주고 받지 않을 것 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -525,7 +525,7 @@ var questions = [
     ]
   },
   {
-    question: "의료가 국가에 의해 관리 되는 것은 중요합니다. <i>(의료 분야는 민영화 되어서는 안 됩니다.)</i>",
+    question: "의료가 국가에 의해 관리 되는 것은 중요합니다. <i>(의료 분야가 민영화 되어서는 안 됩니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -541,7 +541,7 @@ var questions = [
     ]
   },
   {
-    question: "에너지 및 수송은 국가에 의해 관리되어야 합니다. <i>(전기와 도로와 같은 분야는 언제나 국가에 의해 운영되어야 합니다.)</i>",
+    question: "에너지 및 수송은 국가에 의해 관리되어야 합니다. <i>(전기나 도로와 같은 분야는 언제나 국가에 의해 운영되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -689,7 +689,7 @@ var questions = [
     ]
   },
   {
-    question: "일부 산업 분야가 민영인 것은 받아들일 수 있습니다. <i>(건설업이나 공공시설 운영과 같은 일부 산업 분야는 민간이 운영해도 좋습니다.)</i>",
+    question: "일부 산업 분야가 민영인 것은 받아들일 수 있습니다. <i>(건설업과 같은 일부 산업 분야는 민간이 운영해도 좋습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -855,7 +855,7 @@ var questions = [
   },
   {
     question:
-      "오늘날의 고용인들은 미래의 고용주와 계약을 체결할 때, 자유롭게 선택할 수 있습니다. <i>(오늘날의 노동자들은, 이직 과정에서 자유롭게 협상할 수 있습니다.)</i>",
+      "오늘날의 고용인들은 미래의 고용주와 계약을 체결할 때, 자유롭게 선택할 수 있습니다. <i>(오늘날의 노동자들은 이직 과정에서 자유롭게 협상할 수 있습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1074,7 +1074,7 @@ var questions = [
   },
   {
     question:
-      "Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage    , adoption or procreation.",
+      "동성애자들은 결혼, 출산, 입양에 있어 이성애자들과 동등하게 취급되어서는 안 됩니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1114,7 +1114,7 @@ var questions = [
     ]
   },
   {
-    question: "기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용될 필요가 있습니다.)</i>",
+    question: "기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1202,7 +1202,7 @@ var questions = [
   // Ecology/Production
   {
     question:
-      "It is not acceptable that human actions should lead to the extinction of species.",
+      "인간의 활동이 생물종의 멸종으로 이어진다는 것은 용납할 수 없습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1218,7 +1218,7 @@ var questions = [
     ]
   },
   {
-    question: "GMOs should be forbidden outside research and medical purposes.",
+    question: "연구 및 의료목적을 제외한 모든 유전자조작(GMO)은 금지되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1234,24 +1234,7 @@ var questions = [
     ]
   },
   {
-    question: "We must fight against global warming.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "e0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "e1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "We should accept changes in our way of consuming food to limit the exploitation of nature.",
+    question: "우리는 지구 온난화에 맞서 싸워야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1268,7 +1251,7 @@ var questions = [
   },
   {
     question:
-      "It is important to encourage an agriculture that maintains a food biodiversity, even if the output is inferior.",
+      "우리는 자연을 지키기 위해 새로운 음식 소비 방식을 받아들여야만 합니다. <i>(우리는 곤충 요리나 배양육, 채식과 같은 새로운 식문화를 받아들여야만 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1285,23 +1268,7 @@ var questions = [
   },
   {
     question:
-      "Preserving non-urban ecosystems is more important than creating jobs.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "e0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "e1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question: "Reduction of waste should be done by reducing production.",
+      "생산량이 줄어드는 한이 있더라도, 생물 다양성(Biodiversity)을 유지하는 농업이 장려되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1318,7 +1285,40 @@ var questions = [
   },
   {
     question:
-      "Space colonization is a good solution for supplying the lack of raw material on Earth (iron, rare metals, fuel...)",
+      "교외 생태계를 보존이 일자리 창출보다 더 중요합니다. <i>(그린벨트 보존을 비롯한 교외 생태계 보존이 일자리 창출보다 더 중요합니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "e0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "e1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question: "폐기물을 줄이기 위해서는 생산량을 줄여야만 합니다.",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "e0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "e1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "우주 개발은 지구에 부족한 철, 희토류, 연료와 같은 원자재를 얻기 위한 좋은 해결책 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1335,7 +1335,7 @@ var questions = [
   },
   {
     question:
-      "Transforming ecosystems durably to increase the quality of life of human beings is legitimate.",
+      "인간의 삶의 질을 높이기 위해, 생태계를 지속적으로 변화시키는 것은 정당합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1352,7 +1352,7 @@ var questions = [
   },
   {
     question:
-      "It is necessary to massively invest in research to improve productivity.",
+      "생산성 향상을 위한 연구에 큰 투자가 필요합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1369,7 +1369,7 @@ var questions = [
   },
   {
     question:
-      "Trans-humanism will be beneficial because it will allow us to improve our capacities.",
+      "인간 개량(Transhumanism)은 우리의 역량을 끌어올릴 수 있기 때문에 유익할 것입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1386,7 +1386,7 @@ var questions = [
   },
   {
     question:
-      "Nuclear fission, when well maintained, is a good source of energy.",
+      "잘 관리된다면, 핵분열은 좋은 에너지원입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1402,7 +1402,7 @@ var questions = [
     ]
   },
   {
-    question: "Exploitation of fossil fuels is necessary.",
+    question: "화석 연료의 개발은 꼭 필요합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1419,7 +1419,7 @@ var questions = [
   },
   {
     question:
-      "Maintaining strong economic growth should be an objective for the government.",
+      "정부의 주된 목표 중 하나는 강력한 경제 성장을 유지하는 것 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1436,7 +1436,7 @@ var questions = [
   },
   // Rehabilitative Justice/Punitive Justice
   {
-    question: "Prisons should no longer exist.",
+    question: "감옥은 사라져야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1453,7 +1453,7 @@ var questions = [
   },
   {
     question:
-      "It is unfair to set a minimal penalty for an offense or a crime.",
+      "범죄에 대해 최소 처벌 기준이 있는 것은 불공평합니다. <i>(최소 형량이 있다는 이유로, 최소 형량보다 낮은 형량을 선고하지 못 하는 것은 불공평합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1470,7 +1470,7 @@ var questions = [
   },
   {
     question:
-      "Individuals who get out of prison should be assisted in their reinsertion.",
+      "감옥에서 나온 사람은 사회로 돌아갈 수 있도록 충분한 도움을 받아야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1487,7 +1487,7 @@ var questions = [
   },
   {
     question:
-      "Justice should always take into consideration the context and the past of the condemned and adapt their penalty accordingly.",
+      "범죄의 배경과 범죄자의 과거를 생각해 처벌을 유연하게 조절하는 것이 곧 정의입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1503,40 +1503,7 @@ var questions = [
     ]
   },
   {
-    question: "Conditions of life in jail should be greatly improved.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "j0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "j1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "The filing and storage of personal records should be delimited strictly and database cross-checking should be forbidden.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "j0",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "j1",
-        value: 3
-      }
-    ]
-  },
-  {
-    question: "The right to be anonymous on Internet should be guaranteed.",
+    question: "교도소의 환경은 크게 개선되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1553,7 +1520,40 @@ var questions = [
   },
   {
     question:
-      "The purpose of the judiciary system should be to punish those who went against the law.",
+      "개인정보는 엄격하게 격리된 채 보관되어야 하며, 데이터베이스 교차 확인은 금지되어야만 합니다. <i>(개인정보는 철저히 보호되어야 하며, 서로 다른 데이터베이스를 이용해 사용자를 추적해서는 안 됩니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "j0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "j1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question: "인터넷에서의 익명성은 보장되어야만 합니다.",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "j0",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "j1",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "사법제도의 목적은 곧 법을 어긴 사람을 처벌하는 것 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1569,7 +1569,7 @@ var questions = [
     ]
   },
   {
-    question: "The police should be armed.",
+    question: "경찰은 무장해야(Armed) 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1586,7 +1586,7 @@ var questions = [
   },
   {
     question:
-      "The sacrifice of some civil liberties is a necessity in order to be protected from terrorist acts.",
+      "테러를 막기 위해, 시민들의 일부 자유는 희생될 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1602,7 +1602,7 @@ var questions = [
     ]
   },
   {
-    question: "Order and authority should be respected in all circumstances.",
+    question: "질서와 권위는 어떤 상황에서도 존중되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1618,7 +1618,7 @@ var questions = [
     ]
   },
   {
-    question: "Heavy penalties are efficient because they are dissuasive.",
+    question: "무거운 처벌은 범죄를 막도록 '설득'할 수 있기 때문에 효율적입니다. <i>(처벌받을 수 있다는 공포가 범죄를 막을 수 있기에, 무거운 처벌은 효율적입니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -1635,7 +1635,7 @@ var questions = [
   },
   {
     question:
-      "It is better to arrest someone potentially dangerous preemptively rather than taking the risk of having them committing a crime.",
+      "잠재적으로 범죄를 저지를 가능성이 있는 사람을 먼저 체포하는 것이 범죄를 저지른 사람을 체포 하는 것 보다 더 좋습니다.",
     answer: 0,
     valuesYes: [
       {

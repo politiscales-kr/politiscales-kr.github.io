@@ -141,21 +141,21 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 <b>교정주의</b>또는 재활적 정의는 범죄자들 스스로가 자신들의 잘못을 깨닫고, 자신들이 행한 일을 하지 말아야 하는 이유와 유죄 판결을 받은 이유를 이해 함으로서 범죄자들을 '올바른 길'로 인도하는 것이 바로 정의의 역할이라는 생각입니다.
 
-반대로 <b>엄벌주의</b>또는 징벌적 정의는 정의의 역할이 '설득력'에 있으며, 유죄 판결을 받은 범죄자는 재범을 피하기 위해, 사회의 나머지 사람들에게는 '따르지 말아야 할 본보기'로 삼기 위해 강력한 처벌로 설득력을 갖춰야 한다는 생각입니다.
+반대로 <b>엄벌주의</b>또는 징벌적 정의는 정의의 역할이 '설득력'에 있으며, 유죄 판결을 받은 범죄자는 재범을 피하기 위해, 사회의 나머지 사람은 '따르지 말아야 할 본보기'로 삼기 위해 정의는 강력한 처벌로 설득력을 갖춰야 한다는 생각입니다.
 
-85. Prisons should no longer exist.
-86. It is unfair to set a minimal penalty for an offense or a crime.
-87. Individuals who get out of prison should be assisted in their reinsertion.
-88. Justice should always take into consideration the context and the past of the condemned and adapt their penalty accordingly.
-89. Conditions of life in jail should be greatly improved.
-90. The filing and storage of personal records should be delimited strictly and database cross-checking should be forbidden.
-91. The right to be anonymous on Internet should be guaranteed.
-92. The purpose of the judiciary system should be to punish those who went against the law.
-93. The police should be armed.
-94. The sacrifice of some civil liberties is a necessity in order to be protected from terrorist acts.
-95. Order and authority should be respected in all circumstances.
-96. Heavy penalties are efficient because they are dissuasive.
-97. It is better to arrest someone potentially dangerous preemptively rather than taking the risk of having them committing a crime.
+85. 감옥은 사라져야만 합니다.
+86. 범죄에 대해 최소 처벌 기준이 있는 것은 불공평합니다. <i>(최소 형량이 있다는 이유로, 최소 형량보다 낮은 형량을 선고하지 못 하는 것은 불공평합니다.)</i>
+87. 감옥에서 나온 사람은 사회로 돌아갈 수 있도록 충분한 도움을 받아야만 합니다.
+88. 범죄의 배경과 범죄자의 과거를 생각해 처벌을 유연하게 조절하는 것이 곧 정의입니다.
+89. 교도소의 환경은 크게 개선되어야만 합니다.
+90. 개인정보는 엄격하게 격리된 채 보관되어야 하며, 데이터베이스 교차 확인은 금지되어야만 합니다. <i>(개인정보는 철저히 보호되어야 하며, 서로 다른 데이터베이스를 이용해 사용자를 추적해서는 안 됩니다.)</i>
+91. 인터넷에서의 익명성은 보장되어야만 합니다.
+92. 사법제도의 목적은 곧 법을 어긴 사람을 처벌하는 것 입니다.
+93. 경찰은 무장해야(Armed) 합니다.
+94. 테러를 막기 위해, 시민들의 일부 자유는 희생될 수 있습니다.
+95. 질서와 권위는 어떤 상황에서도 존중되어야만 합니다.
+96. 무거운 처벌은 범죄를 막도록 '설득'할 수 있기 때문에 효율적입니다. <i>(처벌받을 수 있다는 공포가 범죄를 막을 수 있기에, 무거운 처벌은 효율적입니다.)</i>
+97. 잠재적으로 범죄를 저지를 가능성이 있는 사람을 먼저 체포하는 것이 범죄를 저지른 사람을 체포 하는 것 보다 더 좋습니다.
 
 ### 급진주의/개혁주의
 
