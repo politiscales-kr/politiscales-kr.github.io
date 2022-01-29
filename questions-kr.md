@@ -34,7 +34,7 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 **국제주의**는 국가간의 위계질서를 철폐하고, 국가간의 협력을 가능한 한 이끌어 낸다는 공통점이 있는 일련의 다양한 이념(이데올리기)들의 집합입니다. 국제주의에서 밀어붙이는 궁극적인 목표는 바로 국경의 철폐입니다.
 
-다른 한 편, **민족주의**는 외국인 또는 다문화주의보다 한 국가와 한 민족을 선호하는 다양한 이념의 집합입니다. 민족주의는 각 민족이 각각의 국가를 가진다는 신념을 정당화 하기도 합니다.
+다른 한 편, **민족주의**는 외국인 또는 다문화주의보다 한 국가와 한 민족을 선호하는 다양한 이념들의 집합입니다. 민족주의는 각 민족이 각각의 국가를 가진다는 신념을 정당화 하기도 합니다.
 
 15. 국경은 결국 사라져야만 합니다.
 16. 국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다. <i>(국민은 국가를 등지게 될지라도, 자신의 이상을 위해 일어날 수 있어야 합니다.)</i>
@@ -97,9 +97,9 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 진보주의/보수주의
 
-**진보주의**는 전통에서 벗어나, 더 나은 사회를 만들기 위해 노력합니다. 많은 상황에서 현재는 과거보다 나았으며, 이에 따라 진보의 길을 계속 걸어가야만 합니다.
+**진보주의**는 전통에서 벗어나, 더 나은 사회를 만들기 위해 노력해야 한다는 생각입니다. 많은 상황에서 현재는 과거보다 나았으며, 이에 따라 진보의 길을 계속 걸어가야만 합니다.
 
-반대로 **보수주의**는 지금 이 상태를 유지하고, 사라졌거나 사라지고 있는 일부 전통적 가치를 다시 불러오기를 원합니다. 전통, 그 중에서 종교적인 것들이 지혜의 원천으로 제시되기도 합니다.
+반대로 **보수주의**는 지금 이 상태를 유지하고, 사라졌거나 사라지고 있는 일부 전통적 가치를 다시 불러오길 원하는 생각입니다. 일부 보수주의에서는 전통, 그 중에서 종교적인 것들이 지혜의 원천으로 제시되기도 합니다.
 
 57. 전통에는 의문을 가져야 합니다.
 58. 우리 나라에 이미 존재하는 공용어에 다른 언어를 추가하거나, 다른 언어로 공용어가 교체된다고 해도 문제 없이 받아들일 수 있습니다.
@@ -118,9 +118,9 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 생태주의/산업주의
 
-**생태주의** in politics privileges the protection of the environment by limiting as much as possible the impact of human activities on the biodiversity even if it implies to limit the these human activities by modifying more or less radically our current way of life.
+정치에서의 **생태주의**는 우리의 현재 생활 방식을 근본적으로 수정함으로서, 인간의 활동이 생태계 다양성에 미치는 영향을 가능한 한 극단적으로 제한하고자 하는 생각입니다.
 
-**산업주의** privileges human needs notably by supporting the increase of the production or the use of methods that have an uncertain impact on the environment.
+**산업주의**는 생산성 향상을 위해 생태계에 적극적으로 개입하거나, 환경에 불확실한 영향을 미치는 것들을 허용할 수 있다는 생각입니다.
 
 71. It is not acceptable that human actions should lead to the extinction of species.
 72. GMOs should be forbidden outside research and medical purposes.
@@ -139,9 +139,9 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 교정주의/엄벌주의
 
-The ones in favor of the **교정주의** consider that the role of justice is to put the condemned on the “right path” again by making them understand why they should not do what they did and why they were condemned and by accompanying them all along the process.
+**교정주의**또는 재활적 정의는 범죄자들 스스로가 자신들의 잘못을 깨닫고, 자신들이 행한 일을 하지 말아야 하는 이유와 유죄 판결을 받은 이유를 이해 함으로서 범죄자들을 '올바른 길'로 인도하는 것이 바로 정의의 역할이라는 생각입니다.
 
-Conversely the ones in favor of the **엄벌주의** consider that the role of justice is dissuasive, both for the condemned (to avoid recidivism) and for the rest of the society (by making them examples not to follow).
+반대로 **엄벌주의**또는 징벌적 정의는 정의의 역할이 '설득력'에 있으며, 유죄 판결을 받은 범죄자는 재범을 피하기 위해, 사회의 나머지 사람들에게는 '따르지 말아야 할 본보기'로 삼기 위해 강력한 처벌로 설득력을 갖춰야 한다는 생각입니다.
 
 85. Prisons should no longer exist.
 86. It is unfair to set a minimal penalty for an offense or a crime.
@@ -159,9 +159,9 @@ Conversely the ones in favor of the **엄벌주의** consider that the role of j
 
 ### 급진주의/개혁주의
 
-**급진주의** have a tendency to privilege direct action, often in the margin of legality, to reach their goal: replace the current political organization for totally different one.
+**급진주의**는 합법적인 선 안에서 자신들의 직접 행동(Direct action)에 일종의 특권을 부여해 정당화 하려는 경향이 있습니다. 급진주의자들의 주된 목표는 '현재의 정치 조직을 완전히 다른 조직으로 교체하는 것'입니다.
 
-**개혁주의** have a tendency to privilege legal action to reach their goal: reform the political organization step by step. This can be done through the institutions, via elections, authorized demonstrations, petitions...
+**개혁주의**는 정치 조직을 점진적으로 개혁하는 목표를 달성하기 위해, 법적 조치(Legal action)와 같은 합법적 행동을 중요하게 여깁니다. 개혁주의자들은 주로 선거, 승인된 시위, 청원을 통해 자신들의 목표를 이뤄 나갑니다.
 
 98. Mass strike is a good way to acquire new rights.
 99. Armed struggle in a country is sometimes necessary.
@@ -180,9 +180,9 @@ Conversely the ones in favor of the **엄벌주의** consider that the role of j
 
 ### 추가 휘장들
 
--   **선교사**: 01. '제 종교는 가능한 한 넓게 퍼져야 합니다.'
--   **음모론자**: 02. 세상은 작고 비밀스러운 모임에 의해 통제되고 있습니다.
--   **실용주의자**: 03. 좋은 정책은 이념과 관련 없이 실용적인 정책입니다.
--   **군주주의자**: 04. 국민들을 규합하고 주권을 지키기 위해서는 군주제가 필요합니다.
--   **완전 채식주의자**: 05. 인간은 동물을 먹거나 착취해서는 안 됩니다.
--   **무정부주의자**: 06. 국가는 폐지되어야만 합니다.
+-   **선교사**: 201. '제 종교는 가능한 한 넓게 퍼져야 합니다.'
+-   **음모론자**: 202. 세상은 작고 비밀스러운 모임에 의해 통제되고 있습니다.
+-   **실용주의자**: 203. 좋은 정책은 이념과 관련 없이 실용적인 정책입니다.
+-   **군주주의자**: 204. 국민들을 규합하고 주권을 지키기 위해서는 군주제가 필요합니다.
+-   **완전 채식주의자**: 205. 인간은 동물을 먹거나 착취해서는 안 됩니다.
+-   **무정부주의자**: 206. 국가는 폐지되어야만 합니다.
