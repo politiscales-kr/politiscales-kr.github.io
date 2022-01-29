@@ -1,4 +1,4 @@
-# PolitiScales 질문들
+# PolitiScales 질문들 — 한국어판
 
 Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-like 운영체제와 호환됩니다.
 
@@ -110,7 +110,7 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 63. 안락사는 허용되어야만 합니다.
 64. 동성애자들은 결혼, 출산, 입양에 있어 이성애자들과 동등하게 취급되어서는 안 됩니다.
 65. 일부 특별한 상황에서는 사형이 정당화될 수 있습니다.
-66. 기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용될 필요가 있습니다.)</i>
+66. 기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용되어야 합니다.)</i>
 67. 학교는 주로 우리의 가치, 전통, 그리고 기본 원칙들을 가르쳐야 합니다.
 68. 낙태는 특별한 상황에서만 허용되어야 합니다.
 69. 부부의 중요한 목표는 적어도 한 명의 자녀를 만드는 것입니다.
@@ -118,24 +118,24 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 생태주의/산업주의
 
-정치에서의 <b>생태주의</b>는 우리의 현재 생활 방식을 근본적으로 수정함으로서, 인간의 활동이 생태계 다양성에 미치는 영향을 가능한 한 극단적으로 제한하고자 하는 생각입니다.
+정치에서의 <b>생태주의</b>는 우리의 현재 생활 방식을 근본적으로 수정함으로서, 인간의 활동이 생태계 다양성에 미치는 영향을 가능한 한 극단적으로 줄이려는 생각입니다.
 
 <b>산업주의</b>는 생산성 향상을 위해 생태계에 적극적으로 개입하거나, 환경에 불확실한 영향을 미치는 것들을 허용할 수 있다는 생각입니다.
 
-71. It is not acceptable that human actions should lead to the extinction of species.
-72. GMOs should be forbidden outside research and medical purposes.
-73. We must fight against global warming.
-74. We should accept changes in our way of consuming food to limit the exploitation of nature.
-75. It is important to encourage an agriculture that maintains a food biodiversity, even if the output is inferior.
-76. Preserving non-urban ecosystems is more important than creating jobs.
-77. Reduction of waste should be done by reducing production.
-78. Space colonization is a good solution for supplying the lack of raw material on Earth (iron, rare metals, fuel...)
-79. Transforming ecosystems durably to increase the quality of life of human beings is legitimate.
-80. It is necessary to massively invest in research to improve productivity.
-81. Trans-humanism will be beneficial because it will allow us to improve our capacities.
-82. Nuclear fission, when well maintained, is a good source of energy.
-83. Exploitation of fossil fuels is necessary.
-84. Maintaining strong economic growth should be an objective for the government.
+71. 인간의 활동이 생물종의 멸종으로 이어진다는 것은 용납할 수 없습니다.
+72. 연구 및 의료목적을 제외한 모든 유전자조작(GMO)은 금지되어야 합니다.
+73. 우리는 지구 온난화에 맞서 싸워야 합니다.
+74. 우리는 자연을 지키기 위해 새로운 음식 소비 방식을 받아들여야만 합니다. <i>(우리는 곤충 요리나 배양육, 채식과 같은 새로운 식문화를 받아들여야만 합니다.)</i>
+75. 생산량이 줄어드는 한이 있더라도, 생물 다양성(Biodiversity)을 유지하는 농업이 장려되어야 합니다.
+76. 교외 생태계를 보존이 일자리 창출보다 더 중요합니다. <i>(그린벨트 보존을 비롯한 교외 생태계 보존이 일자리 창출보다 더 중요합니다.)</i>
+77. 폐기물을 줄이기 위해서는 생산량을 줄여야만 합니다.
+78. 우주 개발은 지구에 부족한 철, 희토류, 연료와 같은 원자재를 얻기 위한 좋은 해결책 입니다.
+79. 인간의 삶의 질을 높이기 위해, 생태계를 지속적으로 변화시키는 것은 정당합니다.
+80. 생산성 향상을 위한 연구에 큰 투자가 필요합니다.
+81. 인간 개량(Transhumanism)은 우리의 역량을 끌어올릴 수 있기 때문에 유익할 것입니다.
+82. 잘 관리된다면, 핵분열은 좋은 에너지원입니다.
+83. 화석 연료의 개발은 꼭 필요합니다.
+84. 정부의 주된 목표 중 하나는 강력한 경제 성장을 유지하는 것 입니다.
 
 ### 교정주의/엄벌주의
 
