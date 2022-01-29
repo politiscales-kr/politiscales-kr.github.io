@@ -53,7 +53,7 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 공산주의/자본주의
 
-**공산주의**는 방대한 정치적 교리입니다. Politiscales에서 측정하는 공산주의는 단순히 '생산수단의 사화화를 지지하는가'를 의미합니다.
+**공산주의**는 방대한 정치적 교리입니다. Politiscales에서 측정하는 공산주의는 단순히 '생산수단의 사회화를 지지하는가'를 의미합니다.
 
 **자본주의**는 애증의 개념이기도 합니다. Politiscales에서 측정하는 자본주의는 단순히 '생산수단의 사유화를 지지하는가'를 의미합니다.
 
@@ -86,35 +86,35 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 46. 근로자가 일을 하며 생활할 수 있도록 최소한의 급여가 보장되어야만 합니다. <i>(최저임금은 보장되어야만 합니다.)</i>
 47. 사적 독점은 피할 필요가 있습니다.
 48. 지역자치단체, 주민공동체와 같은 공공기관에서 받은 대출은 꼭 상환할 필요가 없습니다. 
-49. 일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등은 정부가 제정적 지원을 제공해야만 합니다.)</i>
+49. 일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등에 대해 정부는 제정적 지원을 제공해야만 합니다.)</i>
 50. 시장경제는 규제되지 않을 때 가장 좋습니다. <i>(시장경제는 자유로울 때 가장 효율적입니다.)</i>
 51. 오늘날의 고용인들은 미래의 고용주와 계약을 체결할 때, 자유롭게 선택할 수 있습니다. <i>(오늘날의 노동자들은, 이직 과정에서 자유롭게 협상할 수 있습니다.)</i>
 52. 기업의 고용을 장려하기 위해, 노동법의 여러 규정들을 제거해야만 합니다.
 53. 법정 근로시간은 늘어나야만 합니다.
 54. 환경 규제는 규제당국이 아닌 대량소비(Mass Consumption)에 영향을 받아야 합니다. <i>(환경 규제는 포괄적인 행정 절차보다, 규격화된 대량 소비에 맞춰 정해져야 합니다.)</i>
 55. 사회 복지는 사람들이 일을 하지 못 하게 합니다. <i>(사회복지는 사람들을 나태하게 만듭니다.)</i>
-56. 국영기업 역시 사기업과 같이, 경쟁과 수익성과 같은 시장논리에 따라 운영되어야만 합니다.
+56. 국영기업 역시 사기업과 같이, 경쟁이나 수익성과 같은 시장논리에 따라 운영되어야만 합니다.
 
 ### 진보주의/보수주의
 
-The **진보주의** try to build social progress, make a better society without caring about traditions. They often consider the present as better than the past and that it is necessary to keep on this path.
+**진보주의**는 전통에서 벗어나, 더 나은 사회를 만들기 위해 노력합니다. 많은 상황에서 현재는 과거보다 나았으며, 이에 따라 진보의 길을 계속 걸어가야만 합니다.
 
-On the contrary the **보수주의** want to keep the status quo and even to reinsert some values already considered as disappeared or disappearing. Traditions, among those the religious heritage, are put forward as a source of wisdom.
+반대로 **보수주의**는 지금 이 상태를 유지하고, 사라졌거나 사라지고 있는 일부 전통적 가치를 다시 불러오기를 원합니다. 전통, 그 중에서 종교적인 것들이 지혜의 원천으로 제시되기도 합니다.
 
-57. Traditions should be questioned.
-58. I do not have any problem if other official languages are added or replace the already existing official language in my country.
-59. Marriage should be abolished.
-60. Foreigners enrich our culture.
-61. The influence of religion should decrease.
-62. A language is defined by its users, not by scholars.
-63. Euthanasia should be authorized.
-64. Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage, adoption or procreation.
-65. In some specific conditions, the death penalty is justified.
-66. Technical progress should not change society too quickly.
-67. School should mostly teach our values, traditions, and fundamental knowledge.
-68. Abortion should be limited to specific cases.
-69. The main goal of a couple is to make at least one child.
-70. Abstinence should be preferred to contraception, to preserve the true nature of the sexual act.
+57. 전통에는 의문을 가져야 합니다.
+58. 우리 나라에 이미 존재하는 공용어에 다른 언어를 추가하거나, 다른 언어로 공용어가 교체된다고 해도 문제 없이 받아들일 수 있습니다.
+59. 결혼은 폐지되어야만 합니다.
+60. 외국인은 우리 문화를 풍요롭게 만듭니다.
+61. 종교의 영향력은 줄어들어야만 합니다.
+62. 언어는 학자들이 아닌 사용자들에 의해 정의됩니다. <i>(정교한 어문 규정보다는 여러 신조어들이 '우리 말'에 더 가깝습니다.)</i>
+63. 안락사는 허용되어야만 합니다.
+64. 동성애자들은 결혼, 출산, 입양에 있어 이성애자들과 동등하게 취급되어서는 안 됩니다.
+65. 일부 특별한 상황에서는 사형이 정당화될 수 있습니다.
+66. 기술 발전이 사회를 너무 빠르게 변화시켜서는 안 됩니다. <i>(기술은 사회를 너무 빠르게 변화시키지 않도록 조심스럽게 적용될 필요가 있습니다.)</i>
+67. 학교는 주로 우리의 가치, 전통, 그리고 기본 원칙들을 가르쳐야 합니다.
+68. 낙태는 특별한 상황에서만 허용되어야 합니다.
+69. 부부의 중요한 목표는 적어도 한 명의 자녀를 만드는 것입니다.
+70. '성행위'의 본질을 지키기 위해서는, 피임보다는 금욕이 더 좋습니다.
 
 ### 생태주의/산업주의
 
