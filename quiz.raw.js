@@ -1074,7 +1074,7 @@ var questions = [
   },
   {
     question:
-      "Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage    , adoption or procreation.",
+      "Homosexuals should not be treated equally to heterosexuals treatment regarding marriage, parentage, adoption or procreation.",
     answer: 0,
     valuesYes: [
       {

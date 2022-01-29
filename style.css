@@ -78,6 +78,13 @@ h4 {
 .simpleText svg {
   vertical-align: text-bottom;
 }
+.simpleImg {
+    width: 100%;
+    max-width: 640px;
+    display: block;
+    object-fit: contain;
+    margin: 0em auto 2em;
+}
 .columnContainer {
   position: relative;
 }
