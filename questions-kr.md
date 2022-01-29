@@ -163,20 +163,20 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 <b>개혁주의</b>는 정치 조직을 점진적으로 개혁하는 목표를 달성하기 위해, 법적 조치(Legal action)와 같은 합법적 행동을 중요하게 여깁니다. 개혁주의자들은 주로 선거, 승인된 시위, 청원을 통해 자신들의 목표를 이뤄 나갑니다.
 
-98. Mass strike is a good way to acquire new rights.
-99. Armed struggle in a country is sometimes necessary.
-100.    Insurrection is necessary to deeply change society.
-101.    Activism in existing political organizations is not relevant to change society.
-102.    Elections organized by the state cannot question the powers in place.
-103.    Computer hacking has a legitimate place in political struggle.
-104.    Sabotage is legitimate under certain conditions.
-105.    Activists must always act in strict accordance with the law.
-106.    Revolutions will always end up in a bad way.
-107.    Changing the system radically is counter-productive. We should rather transform it progressively.
-108.    Violence against individuals is never productive.
-109.    We should always break with protesters who use violence.
-110.    We need to make compromises with the opposition to apply our ideas.
-111.    Changes in an individual's way of life can induce changes in society.
+98. 대규모 파업은 새로운 권리를 얻기 위한 좋은 방법입니다.
+99. 때로는 무력투쟁이 꼭 필요할 때가 있습니다.
+100.    사회를 근본적으로 바꾸기 위해서는 폭동이 꼭 필요합니다.
+101.    기존 정치 조직의 행동은 결국 사회를 변화시키지 못 했습니다. <i>(사회를 변화시키기 위해서는 더 강한 행동이 필요합니다.)</i>
+102.    국가가 주최한 선거로는 국가를 바꿀 수 없습니다. <i>(국가는 선거로 권력을 뒤바꾸는 것을 두고 보고 있지 않을 것 입니다.)</i>
+103.    컴퓨터 취약점 공격은 정치적 투쟁에 있어 정당합니다.
+104.    태업(Sabotage)은 특별한 조건 아래 합법입니다.
+105.    운동가(Activist)는 항상 법률 안에서 행동해야 합니다. <i>(운동가들은 법을 지키며 활동해야 합니다.)</i>
+106.    혁명은 항상 나쁜 방향으로 끝날 것입니다.
+107.    시스템을 급진적으로 바꾸는 것은 비효율적입니다. 오히려 점진적으로 바꿔 나가는 것이 효율적입니다.
+108.    개인에 대한 폭력은 결코 생산적이지 않습니다.
+109.    우리는 항상 폭력을 사용하는 시위대와 거리를 둬야만 합니다.
+110.    우리의 아이디어를 적용하기 위해서는 반대측과 타협할 필요가 있습니다.
+111.    개인의 생활 방식을 바꿈으로서 사회의 변화를 이끌어 낼 수 있습니다.
 
 ### 추가 휘장들
 
