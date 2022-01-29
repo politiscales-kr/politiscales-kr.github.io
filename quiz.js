@@ -223,7 +223,7 @@ var questions = [
     ]
   },
   {
-    question: "생물학적으로, 사람은 이성애를 위해 설계되었습니다.",
+    question: "생물학적으로, 인간은 이성애를 위해 설계되었습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -325,7 +325,7 @@ var questions = [
   },
   {
     question:
-      "스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>",
+      "스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 국가/민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -441,7 +441,7 @@ var questions = [
   },
   {
     question:
-      "경제적 이익을 방어하기 위한 국가의 군사적 개입은 정당합니다.",
+      "경제적 이익을 지키기 위한 국가의 군사적 개입은 정당합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -493,7 +493,7 @@ var questions = [
   // Communism/Capitalism
   {
     question:
-      "No one should get rich from owning a business, housing, or land.",
+      "그 누구도 기업, 집, 땅을 소유함으로서 부자가 되어서는 안 됩니다.",
     answer: 0,
     valuesYes: [
       {
@@ -509,7 +509,7 @@ var questions = [
     ]
   },
   {
-    question: "Wage labor is a form of theft from the worker by companies.",
+    question: "임금 노동은 노동자에 대한 기업의 도둑질의 한 형태입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -525,7 +525,7 @@ var questions = [
     ]
   },
   {
-    question: "It is important that health should stay a public matter.",
+    question: "의료가 국가에 의해 관리 되는 것은 중요합니다. <i>(의료 분야는 민영화 되어서는 안 됩니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -541,7 +541,7 @@ var questions = [
     ]
   },
   {
-    question: "Energy and transport structures should be a public matter.",
+    question: "에너지 및 수송은 국가에 의해 관리되어야 합니다. <i>(전기와 도로와 같은 분야는 언제나 국가에 의해 운영되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -557,7 +557,7 @@ var questions = [
     ]
   },
   {
-    question: "Patents should not exist.",
+    question: "특허 제도는 사라져야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -574,7 +574,7 @@ var questions = [
   },
   {
     question:
-      "It is necessary to implement assemblies to ration our production to the consumers according to their needs.",
+      "공산품을 소비자들의 필요에 따라 분배하기 위한 법을 만드는 것은 필연적이어야 합니다. <i>(필요에 따라 분배되어야만 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -623,7 +623,7 @@ var questions = [
   },
   {
     question:
-      "It is merit that explains differences of wealth between two individuals.",
+      "두 개인 사이의 부의 차이는 두 개인 사이의 역량 차이에서 나옵니다. <i>(개인의 재능과 같은 역량이 곧 개인의 재산을 결정합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -640,7 +640,7 @@ var questions = [
   },
   {
     question:
-      "The fact that some schools and universities are private is not a problem.",
+      "일부 학교와 대학이 사립이라는 사실은 문제가 되지 않습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -657,7 +657,7 @@ var questions = [
   },
   {
     question:
-      "Offshoring and outsourcing are necessary evils to improve production.",
+      "해외 위탁을 포함한 용역과 하청은 생산성을 높이기 위한 필요악 입니다.",
     answer: 0,
     valuesYes: [
       {
@@ -673,7 +673,7 @@ var questions = [
     ]
   },
   {
-    question: "It is acceptable that there are rich and poor people.",
+    question: "부자와 가난한 사람이 있다는 것은 받아들일 수 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -689,7 +689,7 @@ var questions = [
     ]
   },
   {
-    question: "It is acceptable that some industry sectors are private.",
+    question: "일부 산업 분야가 민영인 것은 받아들일 수 있습니다. <i>(건설업이나 공공시설 운영과 같은 일부 산업 분야는 민간이 운영해도 좋습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -705,7 +705,7 @@ var questions = [
     ]
   },
   {
-    question: "Banks should remain private.",
+    question: "은행은 사기업으로 유지되어야 합니다.",
     answer: 0,
     valuesYes: [
       {

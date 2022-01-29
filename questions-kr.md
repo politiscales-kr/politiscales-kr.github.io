@@ -1,10 +1,11 @@
 # PolitiScales 질문들
 
-자동 적용 Python3 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-Like 운영체제와 호환됩니다.
+Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용해 주세요. UNIX-like 운영체제와 호환됩니다.
 
 * 번호가 매겨진 질문들만이 자동으로 ``quiz.js``에 적용됩니다.
+* 질문 안쪽에 세미콜론 (;)이 들어가서는 안 됩니다.
 * 질문 안쪽에 큰따옴표 (")가 들어가서는 안 됩니다.
-* 질문 안쪽에 숫자와 온점(N.)이 들어가서는 안 됩니다.
+* 질문 안쪽에 열거를 암시하는 숫자와 온점(N.)이 들어가서는 안 됩니다.
 
 ### 구성주의/본질주의
 
@@ -26,12 +27,12 @@
 10. 성폭행은 부분적으로 남성/여성의 자연스러운 충동에 의해 일어납니다.
 11. 트랜스젠더는 진정으로 원하는 성별이 될 수 없습니다.
 12. 몇 가지의 절대적인 특징을 이용해, 특정 국가 또는 문화권에 속한 사람들을 구분해 낼 수 있습니다.
-13. 생물학적으로, 사람은 이성애를 위해 설계되었습니다.
+13. 생물학적으로, 인간은 이성애를 위해 설계되었습니다.
 14. 이기심은 상황에 관계 없이, 언제나 인간 종의 주된 원동력 이었습니다.
 
 ### 국제주의/민족주의
 
-**국제주의**는 국가간의 위계질서를 철폐하고, 국가간의 협력을 가능한 한 이끌어 낸다는 공통점이 있는 일련의 다양한 이념(이데올리기) 집합입니다. 국제주의에서 밀어붙이는 궁극적인 목표는 바로 국경의 철폐입니다.
+**국제주의**는 국가간의 위계질서를 철폐하고, 국가간의 협력을 가능한 한 이끌어 낸다는 공통점이 있는 일련의 다양한 이념(이데올리기)들의 집합입니다. 국제주의에서 밀어붙이는 궁극적인 목표는 바로 국경의 철폐입니다.
 
 다른 한 편, **민족주의**는 외국인 또는 다문화주의보다 한 국가와 한 민족을 선호하는 다양한 이념의 집합입니다. 민족주의는 각 민족이 각각의 국가를 가진다는 신념을 정당화 하기도 합니다.
 
@@ -39,37 +40,37 @@
 16. 국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다. <i>(국민은 국가를 등지게 될지라도, 자신의 이상을 위해 일어날 수 있어야 합니다.)</i>
 17. 우리 나라는 우리 국민이 다른 나라에서 저지른 범죄에 대해서도 배상해야만 합니다.
 18. 어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 국가 사이의 자유 시장은 부정적 영향을 주고 받지 않을 것 입니다.
-19. 스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>
+19. 스포츠 경기 중, 국가 우월주의(쇼비니즘)는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 국가/민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>
 20. '전 제 나라의 주민들과 똑같이 다른 나라의 주민들에 대해서도 걱정하고 있습니다.'
 21. 우리나라에 사는 외국인들은, 우리나라의 국민들과 동등하게 정치적으로 행동할 수 있어야 합니다. <i>(외국인들도 내국인과 같이 시위, 노조, 단체 등을 자유롭게 결성할 수 있어야 합니다.)</i>
 22. 시민이 외국인보다 우선이어야 합니다.
 23. 우리 나라의 가치는 다른 나라의 가치보다 우월합니다.
 24. 다문화주의는 우리 사회에 위협이 됩니다.
 25. 좋은 시민은 곧 애국자입니다.
-26. 경제적 이익을 방어하기 위한 국가의 군사적 개입은 정당합니다.
+26. 경제적 이익을 지키기 위한 국가의 군사적 개입은 정당합니다.
 27. 민족의식을 심어주기 위해 역사교육은 꼭 필요합니다.
 28. 우리나라에서 진행된 연구는 다른 나라에서 사용할 수 없어야만 합니다.
 
-### 사회주의/자본주의
+### 공산주의/자본주의
 
-**사회주의** is a vast political doctrine. In this test a majority for communism simply signifies that you are for a public property of the means of production.
+**공산주의**는 방대한 정치적 교리입니다. Politiscales에서 측정하는 공산주의는 단순히 '생산수단의 사화화를 지지하는가'를 의미합니다.
 
-**자본주의** is as well an ambivalent concept. In this test a majority for capitalism simply signifies that you are for a private property of the means of production.
+**자본주의**는 애증의 개념이기도 합니다. Politiscales에서 측정하는 자본주의는 단순히 '생산수단의 사유화를 지지하는가'를 의미합니다.
 
-29. No one should get rich from owning a business, housing, or land.
-30. Wage labor is a form of theft from the worker by companies.
-31. It is important that health should stay a public matter.
-32. Energy and transport structures should be a public matter.
-33. Patents should not exist.
-34. It is necessary to implement assemblies to ration our production to the consumers according to their needs.
-35. The labor market enslave workers.
-36. Looking for one's own profit is healthy for the economy.
-37. It is merit that explains differences of wealth between two individuals.
-38. The fact that some schools and universities are private is not a problem.
-39. Offshoring and outsourcing are necessary evils to improve production.
-40. It is acceptable that there are rich and poor people.
-41. It is acceptable that some industry sectors are private.
-42. Banks should remain private.
+29. 그 누구도 기업, 집, 땅을 소유함으로서 부자가 되어서는 안 됩니다.
+30. 임금 노동은 노동자에 대한 기업의 도둑질의 한 형태입니다.
+31. 의료가 국가에 의해 관리 되는 것은 중요합니다. <i>(의료 분야는 민영화 되어서는 안 됩니다.)</i>
+32. 에너지 및 수송은 국가에 의해 관리되어야 합니다. <i>(전기와 도로와 같은 분야는 언제나 국가에 의해 운영되어야 합니다.)</i>
+33. 특허 제도는 사라져야 합니다.
+34. 공산품을 소비자들의 필요에 따라 분배하기 위한 법을 만드는 것은 필연적이어야 합니다. <i>(필요에 따라 분배되어야만 합니다.)</i>
+35. 노동 시장은 노동자를 노예로 만듭니다.
+36. 자신의 이익을 추구하는 것은 경제에 있어 긍정적입니다. <i>(이익 추구가 곧 건강한 시장을 만듭니다.)</i>
+37. 두 개인 사이의 부의 차이는 두 개인 사이의 역량 차이에서 나옵니다. <i>(개인의 재능과 같은 역량이 곧 개인의 재산을 결정합니다.)</i>
+38. 일부 학교와 대학이 사립이라는 사실은 문제가 되지 않습니다.
+39. 해외 위탁을 포함한 용역과 하청은 생산성을 높이기 위한 필요악 입니다.
+40. 부자와 가난한 사람이 있다는 것은 받아들일 수 있습니다.
+41. 일부 산업 분야가 민영인 것은 받아들일 수 있습니다. <i>(건설업이나 공공시설 운영과 같은 일부 산업 분야는 민간이 운영해도 좋습니다.)</i>
+42. 은행은 사기업으로 유지되어야 합니다.
 
 ### 규제주의/불간섭주의
 
