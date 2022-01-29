@@ -722,7 +722,7 @@ var questions = [
   },
   // Regulation/Laissez-faire
   {
-    question: "Revenues and capital should be taxed to redistribute wealth.",
+    question: "부의 재분배를 위해서는 수입과 재산 모두에 세금이 부과되어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -738,7 +738,7 @@ var questions = [
     ]
   },
   {
-    question: "The age of retirement should be lowered.",
+    question: "정년은 낮아져야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -755,7 +755,7 @@ var questions = [
   },
   {
     question:
-      "Dismissals of employees should be forbidden except if it is justified.",
+      "정당한 이유가 있는 경우를 제외하면, 직원의 해고는 완전히 금지되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -788,7 +788,7 @@ var questions = [
     ]
   },
   {
-    question: "It is necessary to avoid a private monopoly.",
+    question: "사적 독점은 피할 필요가 있습니다.",
     answer: 0,
     valuesYes: [
       {
@@ -805,7 +805,7 @@ var questions = [
   },
   {
     question:
-      "Loans contracted by the public sector (states, regions, communities) do not necessarily have to be repaid.",
+      "지역자치단체, 주민공동체와 같은 공공기관에서 받은 대출은 꼭 상환할 필요가 없습니다. ",
     answer: 0,
     valuesYes: [
       {
@@ -822,7 +822,7 @@ var questions = [
   },
   {
     question:
-      "Some sectors or type of employment should be financially supported.",
+      "일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등은 정부가 제정적 지원을 제공해야만 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -838,24 +838,7 @@ var questions = [
     ]
   },
   {
-    question: "Market economy is optimal when it is not regulated.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "m1",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "m0",
-        value: 3
-      }
-    ]
-  },
-  {
-    question:
-      "Nowadays employees are free to choose when signing a contract with their future employer.",
+    question: "시장경제는 규제되지 않을 때 가장 좋습니다. <i>(시장경제는 자유로울 때 가장 효율적입니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -872,7 +855,7 @@ var questions = [
   },
   {
     question:
-      "It is necessary to remove regulations in labor legislation to encourage firms to hire.",
+      "오늘날의 고용인들은 미래의 고용주와 계약을 체결할 때, 자유롭게 선택할 수 있습니다. <i>(오늘날의 노동자들은, 이직 과정에서 자유롭게 협상할 수 있습니다.)</i>",
     answer: 0,
     valuesYes: [
       {
@@ -889,7 +872,7 @@ var questions = [
   },
   {
     question:
-      "The maximum allowed hours in the legal work week should be increased.",
+      "기업의 고용을 장려하기 위해, 노동법의 여러 규정들을 제거해야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -906,23 +889,7 @@ var questions = [
   },
   {
     question:
-      "Environmental norms should be influenced by mass consumption and not from an authority.",
-    answer: 0,
-    valuesYes: [
-      {
-        axis: "m1",
-        value: 3
-      }
-    ],
-    valuesNo: [
-      {
-        axis: "m0",
-        value: 3
-      }
-    ]
-  },
-  {
-    question: "Social assistance deters people from working.",
+      "법정 근로시간은 늘어나야만 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -939,7 +906,40 @@ var questions = [
   },
   {
     question:
-      "State-run companies should be managed like private ones and follow the logic of the market (competition, profitability...).",
+      "환경 규제는 규제당국이 아닌 대량소비(Mass Consumption)에 영향을 받아야 합니다. <i>(환경 규제는 포괄적인 행정 절차보다, 규격화된 대량 소비에 맞춰 정해져야 합니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "m1",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "m0",
+        value: 3
+      }
+    ]
+  },
+  {
+    question: "사회 복지는 사람들이 일을 하지 못 하게 합니다. <i>(사회복지는 사람들을 나태하게 만듭니다.)</i>",
+    answer: 0,
+    valuesYes: [
+      {
+        axis: "m1",
+        value: 3
+      }
+    ],
+    valuesNo: [
+      {
+        axis: "m0",
+        value: 3
+      }
+    ]
+  },
+  {
+    question:
+      "국영기업 역시 사기업과 같이, 경쟁과 수익성과 같은 시장논리에 따라 운영되어야만 합니다.",
     answer: 0,
     valuesYes: [
       {

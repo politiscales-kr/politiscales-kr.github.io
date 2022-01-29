@@ -74,26 +74,26 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 
 ### 규제주의/불간섭주의
 
-This axis represents the attitude that a government needs to have concerning the market economy in which an important part of the means of production are private. Liberals and Keynesians are opposed to the method that needs to be adopted without putting into question capitalism. If you are more capitalist, this axis represents your goal in terms of economy. If you are more communist, this axis represents the least bad that you can expect of the current system.
+이 축은 주요 생산수단이 사유화된 시장경제에서 정부가 가져야 할 태도를 나타냅니다. 자유주의자와 케인즈주의자는 자본주의와 모순되는 방법에 반대합니다. 만약 자본주의적인 태도를 가진다면, 이 축은 경제 측면에서의 목표를 의미합니다. 하지만 공산주의적인 태도를 가지고 있다면, 이 축은 현재의 제도 아래서 기대할 수 있는 가장 덜 나쁜 것을 의미합니다.
 
-**규제주의** or interventionism is an idea in which the economical activity should be regulated for the common interest. It can be through legislation, planning, subventions, a variable taxation...
+**규제주의** 또는 간섭주의는 경제 활동이 공동의 이익을 위해 규제되어야 한다는 생각입니다. 계획안, 입법, 규제, 보조금, 가변 과세를 통해 이루어질 수 있습니다.
 
-On the contrary, the **불간섭주의** is the ideas in which the economical activity should not be regulated because it would in itself correspond to the common interest. It can be through a weak legislation, few or no subventions, a fixed taxation and often weak or even the complete suppression of the role of the state in the economy.
+이에 반해, **불간섭주의** 또는 자유방임주의(Laissez-faire)는 이익 추구와 같은 경제활동이 곧 공공의 이익과 연결되기 때문에, 규제되어서는 안 된다는 생각입니다. 약한 입법, 적은 보조금, 고정 과세, 경제에서의 국가의 역할에 대한 약하거나 완전한 제한을 통해 이루어질 수 있습니다.
 
-43. Revenues and capital should be taxed to redistribute wealth.
-44. The age of retirement should be lowered.
-45. Dismissals of employees should be forbidden except if it is justified.
-46. Minimal levels of salary should be ensured to make sure that a worker can live off their work.
-47. It is necessary to avoid a private monopoly.
-48. Loans contracted by the public sector (states, regions, communities) do not necessarily have to be repaid.
-49. Some sectors or type of employment should be financially supported.
-50. Market economy is optimal when it is not regulated.
-51. Nowadays employees are free to choose when signing a contract with their future employer.
-52. It is necessary to remove regulations in labor legislation to encourage firms to hire.
-53. The maximum allowed hours in the legal work week should be increased.
-54. Environmental norms should be influenced by mass consumption and not from an authority.
-55. Social assistance deters people from working.
-56. State-run companies should be managed like private ones and follow the logic of the market (competition, profitability...).
+43. 부의 재분배를 위해서는 수입과 재산 모두에 세금이 부과되어야 합니다.
+44. 정년은 낮아져야만 합니다.
+45. 정당한 이유가 있는 경우를 제외하면, 직원의 해고는 완전히 금지되어야만 합니다.
+46. 근로자가 일을 하며 생활할 수 있도록 최소한의 급여가 보장되어야만 합니다. <i>(최저임금은 보장되어야만 합니다.)</i>
+47. 사적 독점은 피할 필요가 있습니다.
+48. 지역자치단체, 주민공동체와 같은 공공기관에서 받은 대출은 꼭 상환할 필요가 없습니다. 
+49. 일부 직종 및 고용 유형은 재정적으로 지원되어야 합니다. <i>(사회간접자본을 이루는 직종 또는 사회적 기업, 사회적 약자 특별 채용 등은 정부가 제정적 지원을 제공해야만 합니다.)</i>
+50. 시장경제는 규제되지 않을 때 가장 좋습니다. <i>(시장경제는 자유로울 때 가장 효율적입니다.)</i>
+51. 오늘날의 고용인들은 미래의 고용주와 계약을 체결할 때, 자유롭게 선택할 수 있습니다. <i>(오늘날의 노동자들은, 이직 과정에서 자유롭게 협상할 수 있습니다.)</i>
+52. 기업의 고용을 장려하기 위해, 노동법의 여러 규정들을 제거해야만 합니다.
+53. 법정 근로시간은 늘어나야만 합니다.
+54. 환경 규제는 규제당국이 아닌 대량소비(Mass Consumption)에 영향을 받아야 합니다. <i>(환경 규제는 포괄적인 행정 절차보다, 규격화된 대량 소비에 맞춰 정해져야 합니다.)</i>
+55. 사회 복지는 사람들이 일을 하지 못 하게 합니다. <i>(사회복지는 사람들을 나태하게 만듭니다.)</i>
+56. 국영기업 역시 사기업과 같이, 경쟁과 수익성과 같은 시장논리에 따라 운영되어야만 합니다.
 
 ### 진보주의/보수주의
 
