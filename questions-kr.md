@@ -187,17 +187,17 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 -   <strong>완전 채식주의자</strong>: 205. 인간은 동물을 먹거나 착취해서는 안 됩니다.
 -   <strong>무정부주의자</strong>: 206. 국가는 폐지되어야만 합니다.
 
-- 무정부주의자: 사람들이 막대기로 맞고 있을 때, 그 막대기가 “인민의 막대기”라고 해도 사람들은 결코 행복해하지 않을 것입니다. 국가는 폐지되어야만 하는 억압입니다.
-- 실용주의자: 정치는 어디에 문제가 있는지 객관적으로 살펴본 뒤, 사용 가능한 수단을 이용해 문제를 해결하는 의사결정과정입니다.
-- 여성주의자: 가부장제를 철폐하기 위해서는 “성”이 사라져야만 합니다.
-- 완전 채식주의자: 인간은 어떤 댓가를 치르더라도 “살아있는” 존재를 소비하거나 착취하지 말아야 합니다.
-- 군주주의자: 우리 사회 중심에는 왕이 있어야 합니다.
-- 선교사: 종교는 중요합니다. 제 종교는 특히 더 중요합니다. 따라서 제 종교는 가능한 한 세계적으로, 넓게 퍼져야만 합니다.
+A. 무정부주의자: 사람들이 막대기로 맞고 있을 때, 그 막대기가 “인민의 막대기”라고 해도 사람들은 결코 행복해하지 않을 것입니다. 국가는 폐지되어야만 하는 억압입니다.
+B. 실용주의자: 정치는 어디에 문제가 있는지 객관적으로 살펴본 뒤, 사용 가능한 수단을 이용해 문제를 해결하는 의사결정과정입니다.
+C. 여성주의자: 가부장제를 철폐하기 위해서는 “성”이 사라져야만 합니다.
+D. 완전 채식주의자: 인간은 어떤 댓가를 치르더라도 “살아있는” 존재를 소비하거나 착취하지 말아야 합니다.
+E. 군주주의자: 우리 사회 중심에는 왕이 있어야 합니다.
+F. 선교사: 종교는 중요합니다. 제 종교는 특히 더 중요합니다. 따라서 제 종교는 가능한 한 세계적으로, 넓게 퍼져야만 합니다.
 
-- 무정부주의자: When the people are being hit with a stick, they are not happier if the stick is called “the stick of the people”. The State is an oppression that must be abolished.
-- 실용주의자: Politics objectively boils down to looking at where the problems are and trying to solve them according to the means available.
-- 여성주의자: Gender should disappear to put an end to the patriarchy.
-- 완전 채식주의자: Human beings must stop at all costs the consumption and exploitation of “sensible” being.
-- 군주주의자: Society should be organized around a king.
-- 선교사: For you religion is important, especially yours. It is therefore appropriate to spread it as globally as possible.
+A. 무정부주의자: When the people are being hit with a stick, they are not happier if the stick is called “the stick of the people”. The State is an oppression that must be bolished.
+B. 실용주의자: Politics objectively boils down to looking at where the problems are and trying to solve them according to the means available.
+C. 여성주의자: Gender should disappear to put an end to the patriarchy.
+D. 완전 채식주의자: Human beings must stop at all costs the consumption and exploitation of “sensible” being.
+E. 군주주의자: Society should be organized around a king.
+F. 선교사: For you religion is important, especially yours. It is therefore appropriate to spread it as globally as possible.
 
