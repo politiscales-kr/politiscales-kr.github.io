@@ -1684,7 +1684,7 @@ var questions = [
     ]
   },
   {
-    question: "사회를 근본적으로 바꾸기 위해서는 폭동이 꼭 필요합니다.",
+    question: "사회를 근본적으로 바꾸기 위해서는 폭동<i>Insurrection</i>이 꼭 필요합니다.",
     answer: 0,
     valuesYes: [
       {
