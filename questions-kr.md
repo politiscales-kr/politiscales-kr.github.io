@@ -37,7 +37,7 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 다른 한 편, <strong>민족주의</strong>는 외국인 또는 다문화주의보다 한 국가와 한 민족을 선호하는 다양한 이념들의 집합입니다. 민족주의는 각 민족이 각각의 국가를 가진다는 신념을 정당화하기도 합니다.
 
 15. 국경은 결국 사라져야만 합니다.
-16. 국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다. <i>(국민은 국가를 등지게 될지라도, 자신의 이상을 위해 일어날 수 있어야 합니다.)</i>
+16. 국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다.
 17. 우리나라는 우리 국민이 다른 나라에서 저지른 범죄에 대해서도 배상해야만 합니다.
 18. 어떤 두 나라가 비슷한 경제 및 사회 시스템, 그리고 환경 규제를 가지고 있다면, 두 나라 사이의 자유 시장은 부정적 영향을 주고받지 않을 것입니다.
 19. 스포츠 경기 중, 국가 우월주의<i>Chauvinism</i>는 허용되지 않아야 합니다. <i>(스포츠 경기 중에도, 다른 국가/민족을 배척하거나 우리 국가/민족의 우월함을 드러나는 태도는 금지되어야 합니다.)</i>
@@ -186,3 +186,18 @@ Python3 자동 적용 스크립트 ``apply-translation.py``를 이용해 적용�
 -   <strong>군주주의자</strong>: 204. 국민들을 규합하고 주권을 지키기 위해서는 군주제가 필요합니다.
 -   <strong>완전 채식주의자</strong>: 205. 인간은 동물을 먹거나 착취해서는 안 됩니다.
 -   <strong>무정부주의자</strong>: 206. 국가는 폐지되어야만 합니다.
+
+- 무정부주의자: 사람들이 막대기로 맞고 있을 때, 그 막대기가 “인민의 막대기”라고 해도 사람들은 결코 행복해하지 않을 것입니다. 국가는 폐지되어야만 하는 억압입니다.
+- 실용주의자: 정치는 어디에 문제가 있는지 객관적으로 살펴본 뒤, 사용 가능한 수단을 이용해 문제를 해결하는 의사결정과정입니다.
+- 여성주의자: 가부장제를 철폐하기 위해서는 “성”이 사라져야만 합니다.
+- 완전 채식주의자: 인간은 어떤 댓가를 치르더라도 “살아있는” 존재를 소비하거나 착취하지 말아야 합니다.
+- 군주주의자: 우리 사회 중심에는 왕이 있어야 합니다.
+- 선교사: 종교는 중요합니다. 제 종교는 특히 더 중요합니다. 따라서 제 종교는 가능한 한 세계적으로, 넓게 퍼져야만 합니다.
+
+- 무정부주의자: When the people are being hit with a stick, they are not happier if the stick is called “the stick of the people”. The State is an oppression that must be abolished.
+- 실용주의자: Politics objectively boils down to looking at where the problems are and trying to solve them according to the means available.
+- 여성주의자: Gender should disappear to put an end to the patriarchy.
+- 완전 채식주의자: Human beings must stop at all costs the consumption and exploitation of “sensible” being.
+- 군주주의자: Society should be organized around a king.
+- 선교사: For you religion is important, especially yours. It is therefore appropriate to spread it as globally as possible.
+
