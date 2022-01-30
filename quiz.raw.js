@@ -1734,7 +1734,7 @@ var questions = [
     ]
   },
   {
-    question: "Hacking has a legitimate place in political struggle.",
+    question: "Computer hacking has a legitimate place in political struggle.",
     answer: 0,
     valuesYes: [
       {
