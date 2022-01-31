@@ -684,7 +684,7 @@ function onImageLoaded() {
           key: "p",
           color0: "#cc0000",
           color1: "#ffb800",
-          name0: "사회주의",
+          name0: "공산주의",
           name1: "자본주의"
         },
         {
