@@ -493,7 +493,7 @@ var questions = [
   // Communism/Capitalism
   {
     question:
-      "그 누구도 기업, 집, 땅을 소유함으로써 부자가 되어서는 안 됩니다.",
+      "그 누구도 기업, 집, 땅을 가짐으로써 부자가 되어서는 안 됩니다.",
     answer: 0,
     valuesYes: [
       {
@@ -705,7 +705,7 @@ var questions = [
     ]
   },
   {
-    question: "은행은 사기업으로 유지되어야 합니다.",
+    question: "은행은 사기업으로 유지되어야 합니다. <i>(은행은 기업과 같은 민간에 의해 운영되어야 합니다.)</i>",
     answer: 0,
     valuesYes: [
       {
