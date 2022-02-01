@@ -408,7 +408,7 @@ var questions = [
     ]
   },
   {
-    question: "다문화주의는 우리 사회에 위협이 됩니다.",
+    question: "다문화주의는 우리 사회를 위협할 것입니다.",
     answer: 0,
     valuesYes: [
       {
