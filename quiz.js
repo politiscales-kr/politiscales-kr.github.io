@@ -1894,7 +1894,7 @@ var questions = [
     valuesNo: []
   },
   {
-    question: "좋은 정책은 이념과 관련 없이 실용적인 정책입니다.",
+    question: "우리는 이념 또는 정당과 관련 없이, 실용적인 정책을 지지해야 합니다.",
     answer: 0,
     valuesYes: [
       {
