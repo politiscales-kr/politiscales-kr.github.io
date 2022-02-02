@@ -274,7 +274,7 @@ var questions = [
   },
   {
     question:
-      "국가를 등지게 되더라도, 사람들은 이상을 위해 일어나야 합니다.",
+      "우리는 우리의 이상을 위해 일어나 국가와 싸울 수 있어야 합니다.",
     answer: 0,
     valuesYes: [
       {
@@ -1894,7 +1894,7 @@ var questions = [
     valuesNo: []
   },
   {
-    question: "우리는 이념 또는 정당과 관련 없이, 실용적인 정책을 지지해야 합니다.",
+    question: "“제 이념 또는 정당과 반대된다고 해도, 실용적인 정책이라면 지지할 수 있습니다”.",
     answer: 0,
     valuesYes: [
       {
